@@ -6719,3 +6719,18 @@ Stacktrace:
 2025-02-20 14:57:19,585 - INFO - Finding element with locator: //*[text() = "We can’t find any flights that match your search"]
 2025-02-20 14:57:19,603 - INFO - Element found: //*[text() = "We can’t find any flights that match your search"]
 2025-02-20 14:57:19,622 - INFO - Element //*[text() = "We can’t find any flights that match your search"] is displayed.
+2025-02-21 10:01:25,651 - INFO - Page title: Booking.com | Official site | The best hotels, flights, car rentals & accommodations
+2025-02-21 10:01:25,652 - INFO - Landing page verification successful.
+2025-02-21 10:01:27,670 - INFO - Clicking the Flights tab.
+2025-02-21 10:01:27,670 - INFO - Clicking element with locator: //*[@id='flights']
+2025-02-21 10:01:27,670 - INFO - Finding element with locator: //*[@id='flights']
+2025-02-21 10:01:28,643 - INFO - Element found: //*[@id='flights']
+2025-02-21 10:01:31,496 - INFO - Clicked on element.
+2025-02-21 10:01:31,499 - INFO - Flights page title: Find cheap flights & plane tickets | Booking.com
+2025-02-21 10:01:31,500 - INFO - Flights page redirection verification successful.
+2025-02-21 10:01:33,135 - INFO - Verifying removing already filled field in flights search.
+2025-02-21 10:01:33,135 - INFO - Clicking the Flights tab.
+2025-02-21 10:01:33,135 - INFO - Clicking element with locator: //*[@id='flights']
+2025-02-21 10:01:33,135 - INFO - Finding element with locator: //*[@id='flights']
+2025-02-21 10:01:34,371 - ERROR - Error finding element //*[@id='flights']: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-02-21 10:01:34,372 - WARNING - Element to click was not found.
