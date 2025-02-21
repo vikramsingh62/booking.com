@@ -11,7 +11,7 @@ value_destination_field="//*[@data-ui-name='input_location_to_segment_0']//*[@cl
 all_dates_in_cal = "//*[@class='Calendar-module__date___49U04 Calendar-module__date--hoverable___m4cjU']"
 btn_select_dates = "//*[@data-ui-name='button_date_segment_0']"
 month = "//*[@class='Calendar-module__monthWrapper___FNL-g']/h3"
-btn_forward_cal = "//*[@data-ui-name='calendar_body']/button[2]"
+btn_forward_cal = "//*[@class='Actionable-module__root___zPQHg Button-module__root___bGYBf Button-module__root--variant-tertiary___Y05n2 Button-module__root--icon-only___Ih3tJ Button-module__root--size-large___zmOYK Button-module__root--variant-tertiary-neutral___Wb5vx Calendar-module__control___FmpLg Calendar-module__control--next___kQcyp']"
 flight_details = "//*[@aria-label='Flight option']"
 alterate_dates = "//*[@aria-label='Alternative dates with prices']//div/div[1]"
 error_destination_field = "//*[@class='ErrorMessage-module__content___nDCzG']"
