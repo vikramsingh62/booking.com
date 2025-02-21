@@ -27,12 +27,12 @@ logging.basicConfig(
     ]
 )
 
-@pytest.fixture(scope="session")
-def browser():
-    logging.info("Initializing WebDriver...")
-    driver = webdriver.Chrome()
-    yield driver
-    logging.info("Closing WebDriver...")
-    driver.quit()
+# @pytest.fixture(scope="session")
+# def browser():
+#     logging.info("Initializing WebDriver...")
+#     driver = webdriver.Chrome()
+#     yield driver
+#     logging.info("Closing WebDriver...")
+#     driver.quit()
 
 
