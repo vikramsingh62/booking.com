@@ -59272,3 +59272,970 @@ Stacktrace:
 2025-02-21 11:10:11,694 - INFO - Moving to the next month in the calendar.
 2025-02-21 11:10:11,694 - INFO - Clicking element with locator: //*[@data-ui-name='calendar_body']/button[2]
 2025-02-21 11:10:11,694 - INFO - Finding element with locator: //*[@data-ui-name='calendar_body']/button[2]
+2025-02-21 12:26:17,009 - INFO - Page title: Booking.com | Official site | The best hotels, flights, car rentals & accommodations
+2025-02-21 12:26:17,010 - INFO - Landing page verification successful.
+2025-02-21 12:26:19,084 - INFO - Clicking the Flights tab.
+2025-02-21 12:26:19,084 - INFO - Clicking element with locator: //*[@id='flights']
+2025-02-21 12:26:19,085 - INFO - Finding element with locator: //*[@id='flights']
+2025-02-21 12:26:19,899 - INFO - Element found: //*[@id='flights']
+2025-02-21 12:26:23,726 - INFO - Clicked on element.
+2025-02-21 12:26:23,728 - INFO - Flights page title: Find cheap flights & plane tickets | Booking.com
+2025-02-21 12:26:23,728 - INFO - Flights page redirection verification successful.
+2025-02-21 12:26:25,178 - INFO - Verifying removing already filled field in flights search.
+2025-02-21 12:26:25,179 - INFO - Clicking the Flights tab.
+2025-02-21 12:26:25,179 - INFO - Clicking element with locator: //*[@id='flights']
+2025-02-21 12:26:25,179 - INFO - Finding element with locator: //*[@id='flights']
+2025-02-21 12:26:26,140 - INFO - Element found: //*[@id='flights']
+2025-02-21 12:26:28,839 - INFO - Clicked on element.
+2025-02-21 12:26:28,843 - INFO - Flights page title: Find cheap flights & plane tickets | Booking.com
+2025-02-21 12:26:28,843 - INFO - Flights page redirection verification successful.
+2025-02-21 12:26:28,843 - INFO - Clicking the origin button.
+2025-02-21 12:26:28,843 - INFO - Clicking element with locator: //*[@data-ui-name='input_location_from_segment_0']
+2025-02-21 12:26:28,845 - INFO - Finding element with locator: //*[@data-ui-name='input_location_from_segment_0']
+2025-02-21 12:26:28,854 - INFO - Element found: //*[@data-ui-name='input_location_from_segment_0']
+2025-02-21 12:26:28,938 - INFO - Clicked on element.
+2025-02-21 12:26:28,938 - INFO - Clicking the already filled field.
+2025-02-21 12:26:28,938 - INFO - Clicking element with locator: //*[@class='Tags-module__text___90E7G']
+2025-02-21 12:26:28,939 - INFO - Finding element with locator: //*[@class='Tags-module__text___90E7G']
+2025-02-21 12:26:28,958 - INFO - Element found: //*[@class='Tags-module__text___90E7G']
+2025-02-21 12:26:29,114 - INFO - Clicked on element.
+2025-02-21 12:26:29,114 - INFO - Checking if element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- '] is displayed.
+2025-02-21 12:26:29,114 - INFO - Finding element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 12:26:29,127 - INFO - Element found: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 12:26:29,138 - INFO - Element //*[@class='AutoComplete-module__textInput___Qh3I- '] is displayed.
+2025-02-21 12:26:29,138 - INFO - Already filled field removed successfully.
+2025-02-21 12:26:30,703 - INFO - Verifying input 'DEL' in the origin field.
+2025-02-21 12:26:30,703 - INFO - Verifying removing already filled field in flights search.
+2025-02-21 12:26:30,703 - INFO - Clicking the Flights tab.
+2025-02-21 12:26:30,703 - INFO - Clicking element with locator: //*[@id='flights']
+2025-02-21 12:26:30,704 - INFO - Finding element with locator: //*[@id='flights']
+2025-02-21 12:26:31,475 - INFO - Element found: //*[@id='flights']
+2025-02-21 12:26:33,804 - INFO - Clicked on element.
+2025-02-21 12:26:33,813 - INFO - Flights page title: Find cheap flights & plane tickets | Booking.com
+2025-02-21 12:26:33,814 - INFO - Flights page redirection verification successful.
+2025-02-21 12:26:33,814 - INFO - Clicking the origin button.
+2025-02-21 12:26:33,814 - INFO - Clicking element with locator: //*[@data-ui-name='input_location_from_segment_0']
+2025-02-21 12:26:33,814 - INFO - Finding element with locator: //*[@data-ui-name='input_location_from_segment_0']
+2025-02-21 12:26:33,832 - INFO - Element found: //*[@data-ui-name='input_location_from_segment_0']
+2025-02-21 12:26:33,911 - INFO - Clicked on element.
+2025-02-21 12:26:33,911 - INFO - Clicking the already filled field.
+2025-02-21 12:26:33,911 - INFO - Clicking element with locator: //*[@class='Tags-module__text___90E7G']
+2025-02-21 12:26:33,911 - INFO - Finding element with locator: //*[@class='Tags-module__text___90E7G']
+2025-02-21 12:26:33,939 - INFO - Element found: //*[@class='Tags-module__text___90E7G']
+2025-02-21 12:26:34,022 - INFO - Clicked on element.
+2025-02-21 12:26:34,022 - INFO - Checking if element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- '] is displayed.
+2025-02-21 12:26:34,022 - INFO - Finding element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 12:26:34,033 - INFO - Element found: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 12:26:34,045 - INFO - Element //*[@class='AutoComplete-module__textInput___Qh3I- '] is displayed.
+2025-02-21 12:26:34,045 - INFO - Already filled field removed successfully.
+2025-02-21 12:26:34,045 - INFO - Entering text 'DEL' into the origin field.
+2025-02-21 12:26:34,045 - INFO - Entering text 'DEL' into element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 12:26:34,045 - INFO - Finding element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 12:26:34,055 - INFO - Element found: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 12:26:34,142 - INFO - Entered text 'DEL' into element.
+2025-02-21 12:26:34,142 - INFO - Finding elements with locator: //*[@id='flights-searchbox_suggestions']//span/b
+2025-02-21 12:26:35,250 - INFO - Found 11 elements with locator: //*[@id='flights-searchbox_suggestions']//span/b
+2025-02-21 12:26:35,250 - INFO - Found 11 autosuggestion options.
+2025-02-21 12:26:35,251 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:35,264 - INFO - Text retrieved: 'DEL'
+2025-02-21 12:26:35,264 - INFO - Checking autosuggestion option: 'DEL'
+2025-02-21 12:26:35,264 - INFO - Clicking the 'DEL' autosuggestion option.
+2025-02-21 12:26:35,264 - INFO - Clicking provided WebElement.
+2025-02-21 12:26:35,328 - INFO - Clicked on element.
+2025-02-21 12:26:35,328 - INFO - Getting text from element with locator: //*[@data-ui-name='input_location_from_segment_0']/div[1]//*[@class='Text-module__root--variant-body_2___7cHHf']
+2025-02-21 12:26:35,328 - INFO - Finding element with locator: //*[@data-ui-name='input_location_from_segment_0']/div[1]//*[@class='Text-module__root--variant-body_2___7cHHf']
+2025-02-21 12:26:35,341 - INFO - Element found: //*[@data-ui-name='input_location_from_segment_0']/div[1]//*[@class='Text-module__root--variant-body_2___7cHHf']
+2025-02-21 12:26:35,350 - INFO - Text retrieved: 'DEL Delhi International Airport'
+2025-02-21 12:26:35,350 - INFO - Origin field value after selection: 'DEL Delhi International Airport'
+2025-02-21 12:26:35,350 - INFO - Origin field input verification successful.
+2025-02-21 12:26:36,834 - INFO - Verifying input 'BOM' in the destination field.
+2025-02-21 12:26:36,834 - INFO - Verifying input 'DEL' in the origin field.
+2025-02-21 12:26:36,834 - INFO - Verifying removing already filled field in flights search.
+2025-02-21 12:26:36,834 - INFO - Clicking the Flights tab.
+2025-02-21 12:26:36,834 - INFO - Clicking element with locator: //*[@id='flights']
+2025-02-21 12:26:36,834 - INFO - Finding element with locator: //*[@id='flights']
+2025-02-21 12:26:37,617 - INFO - Element found: //*[@id='flights']
+2025-02-21 12:26:39,420 - INFO - Clicked on element.
+2025-02-21 12:26:39,421 - INFO - Flights page title: Find cheap flights & plane tickets | Booking.com
+2025-02-21 12:26:39,421 - INFO - Flights page redirection verification successful.
+2025-02-21 12:26:39,421 - INFO - Clicking the origin button.
+2025-02-21 12:26:39,421 - INFO - Clicking element with locator: //*[@data-ui-name='input_location_from_segment_0']
+2025-02-21 12:26:39,421 - INFO - Finding element with locator: //*[@data-ui-name='input_location_from_segment_0']
+2025-02-21 12:26:39,440 - INFO - Element found: //*[@data-ui-name='input_location_from_segment_0']
+2025-02-21 12:26:39,538 - INFO - Clicked on element.
+2025-02-21 12:26:39,539 - INFO - Clicking the already filled field.
+2025-02-21 12:26:39,539 - INFO - Clicking element with locator: //*[@class='Tags-module__text___90E7G']
+2025-02-21 12:26:39,539 - INFO - Finding element with locator: //*[@class='Tags-module__text___90E7G']
+2025-02-21 12:26:39,573 - INFO - Element found: //*[@class='Tags-module__text___90E7G']
+2025-02-21 12:26:39,750 - INFO - Clicked on element.
+2025-02-21 12:26:39,750 - INFO - Checking if element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- '] is displayed.
+2025-02-21 12:26:39,750 - INFO - Finding element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 12:26:39,756 - INFO - Element found: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 12:26:39,764 - INFO - Element //*[@class='AutoComplete-module__textInput___Qh3I- '] is displayed.
+2025-02-21 12:26:39,764 - INFO - Already filled field removed successfully.
+2025-02-21 12:26:39,765 - INFO - Entering text 'DEL' into the origin field.
+2025-02-21 12:26:39,765 - INFO - Entering text 'DEL' into element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 12:26:39,765 - INFO - Finding element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 12:26:39,770 - INFO - Element found: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 12:26:39,814 - INFO - Entered text 'DEL' into element.
+2025-02-21 12:26:39,814 - INFO - Finding elements with locator: //*[@id='flights-searchbox_suggestions']//span/b
+2025-02-21 12:26:40,498 - INFO - Found 11 elements with locator: //*[@id='flights-searchbox_suggestions']//span/b
+2025-02-21 12:26:40,498 - INFO - Found 11 autosuggestion options.
+2025-02-21 12:26:40,498 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:40,505 - INFO - Text retrieved: 'DEL'
+2025-02-21 12:26:40,505 - INFO - Checking autosuggestion option: 'DEL'
+2025-02-21 12:26:40,505 - INFO - Clicking the 'DEL' autosuggestion option.
+2025-02-21 12:26:40,505 - INFO - Clicking provided WebElement.
+2025-02-21 12:26:40,558 - INFO - Clicked on element.
+2025-02-21 12:26:40,558 - INFO - Getting text from element with locator: //*[@data-ui-name='input_location_from_segment_0']/div[1]//*[@class='Text-module__root--variant-body_2___7cHHf']
+2025-02-21 12:26:40,558 - INFO - Finding element with locator: //*[@data-ui-name='input_location_from_segment_0']/div[1]//*[@class='Text-module__root--variant-body_2___7cHHf']
+2025-02-21 12:26:40,566 - INFO - Element found: //*[@data-ui-name='input_location_from_segment_0']/div[1]//*[@class='Text-module__root--variant-body_2___7cHHf']
+2025-02-21 12:26:40,574 - INFO - Text retrieved: 'DEL Delhi International Airport'
+2025-02-21 12:26:40,574 - INFO - Origin field value after selection: 'DEL Delhi International Airport'
+2025-02-21 12:26:40,575 - INFO - Origin field input verification successful.
+2025-02-21 12:26:40,575 - INFO - Clicking the destination button.
+2025-02-21 12:26:40,575 - INFO - Clicking element with locator: //*[@data-ui-name='input_location_to_segment_0']
+2025-02-21 12:26:40,575 - INFO - Finding element with locator: //*[@data-ui-name='input_location_to_segment_0']
+2025-02-21 12:26:40,584 - INFO - Element found: //*[@data-ui-name='input_location_to_segment_0']
+2025-02-21 12:26:40,632 - INFO - Clicked on element.
+2025-02-21 12:26:40,632 - INFO - Entering text 'BOM' into the destination field.
+2025-02-21 12:26:40,632 - INFO - Entering text 'BOM' into element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 12:26:40,633 - INFO - Finding element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 12:26:40,643 - INFO - Element found: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 12:26:40,687 - INFO - Entered text 'BOM' into element.
+2025-02-21 12:26:40,687 - INFO - Finding elements with locator: //*[@id='flights-searchbox_suggestions']//span/b
+2025-02-21 12:26:41,334 - INFO - Found 1 elements with locator: //*[@id='flights-searchbox_suggestions']//span/b
+2025-02-21 12:26:41,334 - INFO - Found 1 autosuggestion options.
+2025-02-21 12:26:41,334 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:41,340 - INFO - Text retrieved: 'BOM'
+2025-02-21 12:26:41,340 - INFO - Checking autosuggestion option: 'BOM'
+2025-02-21 12:26:41,340 - INFO - Clicking the 'BOM' autosuggestion option.
+2025-02-21 12:26:41,340 - INFO - Clicking provided WebElement.
+2025-02-21 12:26:41,390 - INFO - Clicked on element.
+2025-02-21 12:26:41,390 - INFO - Getting text from element with locator: //*[@data-ui-name='input_location_to_segment_0']//*[@class='Text-module__root--variant-body_2___7cHHf']
+2025-02-21 12:26:41,390 - INFO - Finding element with locator: //*[@data-ui-name='input_location_to_segment_0']//*[@class='Text-module__root--variant-body_2___7cHHf']
+2025-02-21 12:26:41,438 - INFO - Element found: //*[@data-ui-name='input_location_to_segment_0']//*[@class='Text-module__root--variant-body_2___7cHHf']
+2025-02-21 12:26:41,446 - INFO - Text retrieved: 'BOM Chhatrapati Shivaji International Airport Mumbai'
+2025-02-21 12:26:41,446 - INFO - Destination field value after selection: 'BOM Chhatrapati Shivaji International Airport Mumbai'
+2025-02-21 12:26:41,446 - INFO - Destination field input verification successful.
+2025-02-21 12:26:43,317 - INFO - Verifying dates functionality: from 12 April, to 18 May
+2025-02-21 12:26:43,318 - INFO - Verifying input 'BOM' in the destination field.
+2025-02-21 12:26:43,318 - INFO - Verifying input 'DEL' in the origin field.
+2025-02-21 12:26:43,318 - INFO - Verifying removing already filled field in flights search.
+2025-02-21 12:26:43,318 - INFO - Clicking the Flights tab.
+2025-02-21 12:26:43,318 - INFO - Clicking element with locator: //*[@id='flights']
+2025-02-21 12:26:43,318 - INFO - Finding element with locator: //*[@id='flights']
+2025-02-21 12:26:44,006 - INFO - Element found: //*[@id='flights']
+2025-02-21 12:26:46,038 - INFO - Clicked on element.
+2025-02-21 12:26:46,042 - INFO - Flights page title: Find cheap flights & plane tickets | Booking.com
+2025-02-21 12:26:46,042 - INFO - Flights page redirection verification successful.
+2025-02-21 12:26:46,042 - INFO - Clicking the origin button.
+2025-02-21 12:26:46,042 - INFO - Clicking element with locator: //*[@data-ui-name='input_location_from_segment_0']
+2025-02-21 12:26:46,042 - INFO - Finding element with locator: //*[@data-ui-name='input_location_from_segment_0']
+2025-02-21 12:26:46,050 - INFO - Element found: //*[@data-ui-name='input_location_from_segment_0']
+2025-02-21 12:26:46,124 - INFO - Clicked on element.
+2025-02-21 12:26:46,124 - INFO - Clicking the already filled field.
+2025-02-21 12:26:46,125 - INFO - Clicking element with locator: //*[@class='Tags-module__text___90E7G']
+2025-02-21 12:26:46,125 - INFO - Finding element with locator: //*[@class='Tags-module__text___90E7G']
+2025-02-21 12:26:46,161 - INFO - Element found: //*[@class='Tags-module__text___90E7G']
+2025-02-21 12:26:46,292 - INFO - Clicked on element.
+2025-02-21 12:26:46,292 - INFO - Checking if element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- '] is displayed.
+2025-02-21 12:26:46,294 - INFO - Finding element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 12:26:46,302 - INFO - Element found: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 12:26:46,308 - INFO - Element //*[@class='AutoComplete-module__textInput___Qh3I- '] is displayed.
+2025-02-21 12:26:46,308 - INFO - Already filled field removed successfully.
+2025-02-21 12:26:46,308 - INFO - Entering text 'DEL' into the origin field.
+2025-02-21 12:26:46,309 - INFO - Entering text 'DEL' into element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 12:26:46,309 - INFO - Finding element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 12:26:46,314 - INFO - Element found: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 12:26:46,351 - INFO - Entered text 'DEL' into element.
+2025-02-21 12:26:46,351 - INFO - Finding elements with locator: //*[@id='flights-searchbox_suggestions']//span/b
+2025-02-21 12:26:47,023 - INFO - Found 11 elements with locator: //*[@id='flights-searchbox_suggestions']//span/b
+2025-02-21 12:26:47,024 - INFO - Found 11 autosuggestion options.
+2025-02-21 12:26:47,024 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:47,029 - INFO - Text retrieved: 'DEL'
+2025-02-21 12:26:47,030 - INFO - Checking autosuggestion option: 'DEL'
+2025-02-21 12:26:47,030 - INFO - Clicking the 'DEL' autosuggestion option.
+2025-02-21 12:26:47,030 - INFO - Clicking provided WebElement.
+2025-02-21 12:26:47,084 - INFO - Clicked on element.
+2025-02-21 12:26:47,085 - INFO - Getting text from element with locator: //*[@data-ui-name='input_location_from_segment_0']/div[1]//*[@class='Text-module__root--variant-body_2___7cHHf']
+2025-02-21 12:26:47,085 - INFO - Finding element with locator: //*[@data-ui-name='input_location_from_segment_0']/div[1]//*[@class='Text-module__root--variant-body_2___7cHHf']
+2025-02-21 12:26:47,092 - INFO - Element found: //*[@data-ui-name='input_location_from_segment_0']/div[1]//*[@class='Text-module__root--variant-body_2___7cHHf']
+2025-02-21 12:26:47,107 - INFO - Text retrieved: 'DEL Delhi International Airport'
+2025-02-21 12:26:47,107 - INFO - Origin field value after selection: 'DEL Delhi International Airport'
+2025-02-21 12:26:47,107 - INFO - Origin field input verification successful.
+2025-02-21 12:26:47,107 - INFO - Clicking the destination button.
+2025-02-21 12:26:47,107 - INFO - Clicking element with locator: //*[@data-ui-name='input_location_to_segment_0']
+2025-02-21 12:26:47,107 - INFO - Finding element with locator: //*[@data-ui-name='input_location_to_segment_0']
+2025-02-21 12:26:47,114 - INFO - Element found: //*[@data-ui-name='input_location_to_segment_0']
+2025-02-21 12:26:47,162 - INFO - Clicked on element.
+2025-02-21 12:26:47,162 - INFO - Entering text 'BOM' into the destination field.
+2025-02-21 12:26:47,162 - INFO - Entering text 'BOM' into element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 12:26:47,162 - INFO - Finding element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 12:26:47,175 - INFO - Element found: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 12:26:47,215 - INFO - Entered text 'BOM' into element.
+2025-02-21 12:26:47,215 - INFO - Finding elements with locator: //*[@id='flights-searchbox_suggestions']//span/b
+2025-02-21 12:26:47,897 - INFO - Found 1 elements with locator: //*[@id='flights-searchbox_suggestions']//span/b
+2025-02-21 12:26:47,897 - INFO - Found 1 autosuggestion options.
+2025-02-21 12:26:47,897 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:47,903 - INFO - Text retrieved: 'BOM'
+2025-02-21 12:26:47,903 - INFO - Checking autosuggestion option: 'BOM'
+2025-02-21 12:26:47,903 - INFO - Clicking the 'BOM' autosuggestion option.
+2025-02-21 12:26:47,903 - INFO - Clicking provided WebElement.
+2025-02-21 12:26:47,946 - INFO - Clicked on element.
+2025-02-21 12:26:47,946 - INFO - Getting text from element with locator: //*[@data-ui-name='input_location_to_segment_0']//*[@class='Text-module__root--variant-body_2___7cHHf']
+2025-02-21 12:26:47,946 - INFO - Finding element with locator: //*[@data-ui-name='input_location_to_segment_0']//*[@class='Text-module__root--variant-body_2___7cHHf']
+2025-02-21 12:26:47,952 - INFO - Element found: //*[@data-ui-name='input_location_to_segment_0']//*[@class='Text-module__root--variant-body_2___7cHHf']
+2025-02-21 12:26:47,958 - INFO - Text retrieved: 'BOM Chhatrapati Shivaji International Airport Mumbai'
+2025-02-21 12:26:47,958 - INFO - Destination field value after selection: 'BOM Chhatrapati Shivaji International Airport Mumbai'
+2025-02-21 12:26:47,958 - INFO - Destination field input verification successful.
+2025-02-21 12:26:47,958 - INFO - Clicking the select dates button.
+2025-02-21 12:26:47,958 - INFO - Clicking element with locator: //*[@data-ui-name='button_date_segment_0']
+2025-02-21 12:26:47,958 - INFO - Finding element with locator: //*[@data-ui-name='button_date_segment_0']
+2025-02-21 12:26:47,965 - INFO - Element found: //*[@data-ui-name='button_date_segment_0']
+2025-02-21 12:26:48,020 - INFO - Clicked on element.
+2025-02-21 12:26:48,020 - INFO - Getting text from element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 12:26:48,020 - INFO - Finding element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 12:26:48,043 - INFO - Element found: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 12:26:48,050 - INFO - Text retrieved: 'February 2025'
+2025-02-21 12:26:48,050 - INFO - Current calendar month: February 2025
+2025-02-21 12:26:48,050 - INFO - Moving to the next month in the calendar.
+2025-02-21 12:26:48,050 - INFO - Clicking element with locator: //*[@class='Actionable-module__root___zPQHg Button-module__root___bGYBf Button-module__root--variant-tertiary___Y05n2 Button-module__root--icon-only___Ih3tJ Button-module__root--size-large___zmOYK Button-module__root--variant-tertiary-neutral___Wb5vx Calendar-module__control___FmpLg Calendar-module__control--next___kQcyp']
+2025-02-21 12:26:48,051 - INFO - Finding element with locator: //*[@class='Actionable-module__root___zPQHg Button-module__root___bGYBf Button-module__root--variant-tertiary___Y05n2 Button-module__root--icon-only___Ih3tJ Button-module__root--size-large___zmOYK Button-module__root--variant-tertiary-neutral___Wb5vx Calendar-module__control___FmpLg Calendar-module__control--next___kQcyp']
+2025-02-21 12:26:48,061 - INFO - Element found: //*[@class='Actionable-module__root___zPQHg Button-module__root___bGYBf Button-module__root--variant-tertiary___Y05n2 Button-module__root--icon-only___Ih3tJ Button-module__root--size-large___zmOYK Button-module__root--variant-tertiary-neutral___Wb5vx Calendar-module__control___FmpLg Calendar-module__control--next___kQcyp']
+2025-02-21 12:26:48,106 - INFO - Clicked on element.
+2025-02-21 12:26:48,106 - INFO - Getting text from element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 12:26:48,106 - INFO - Finding element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 12:26:48,116 - INFO - Element found: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 12:26:48,124 - INFO - Text retrieved: 'March 2025'
+2025-02-21 12:26:48,124 - INFO - Current calendar month: March 2025
+2025-02-21 12:26:48,124 - INFO - Moving to the next month in the calendar.
+2025-02-21 12:26:48,124 - INFO - Clicking element with locator: //*[@class='Actionable-module__root___zPQHg Button-module__root___bGYBf Button-module__root--variant-tertiary___Y05n2 Button-module__root--icon-only___Ih3tJ Button-module__root--size-large___zmOYK Button-module__root--variant-tertiary-neutral___Wb5vx Calendar-module__control___FmpLg Calendar-module__control--next___kQcyp']
+2025-02-21 12:26:48,124 - INFO - Finding element with locator: //*[@class='Actionable-module__root___zPQHg Button-module__root___bGYBf Button-module__root--variant-tertiary___Y05n2 Button-module__root--icon-only___Ih3tJ Button-module__root--size-large___zmOYK Button-module__root--variant-tertiary-neutral___Wb5vx Calendar-module__control___FmpLg Calendar-module__control--next___kQcyp']
+2025-02-21 12:26:48,132 - INFO - Element found: //*[@class='Actionable-module__root___zPQHg Button-module__root___bGYBf Button-module__root--variant-tertiary___Y05n2 Button-module__root--icon-only___Ih3tJ Button-module__root--size-large___zmOYK Button-module__root--variant-tertiary-neutral___Wb5vx Calendar-module__control___FmpLg Calendar-module__control--next___kQcyp']
+2025-02-21 12:26:48,187 - INFO - Clicked on element.
+2025-02-21 12:26:48,187 - INFO - Getting text from element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 12:26:48,187 - INFO - Finding element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 12:26:48,194 - INFO - Element found: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 12:26:48,201 - INFO - Text retrieved: 'April 2025'
+2025-02-21 12:26:48,202 - INFO - Current calendar month: April 2025
+2025-02-21 12:26:48,202 - INFO - Selecting 'from' date: 12 April
+2025-02-21 12:26:48,202 - INFO - Finding elements with locator: //*[@class='Calendar-module__date___49U04 Calendar-module__date--hoverable___m4cjU']
+2025-02-21 12:26:48,217 - INFO - Found 61 elements with locator: //*[@class='Calendar-module__date___49U04 Calendar-module__date--hoverable___m4cjU']
+2025-02-21 12:26:48,217 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:48,226 - INFO - Text retrieved: '1'
+2025-02-21 12:26:48,226 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:48,232 - INFO - Text retrieved: '2'
+2025-02-21 12:26:48,232 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:48,238 - INFO - Text retrieved: '3'
+2025-02-21 12:26:48,240 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:48,245 - INFO - Text retrieved: '4'
+2025-02-21 12:26:48,245 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:48,251 - INFO - Text retrieved: '5'
+2025-02-21 12:26:48,251 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:48,256 - INFO - Text retrieved: '6'
+2025-02-21 12:26:48,256 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:48,262 - INFO - Text retrieved: '7'
+2025-02-21 12:26:48,262 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:48,268 - INFO - Text retrieved: '8'
+2025-02-21 12:26:48,268 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:48,274 - INFO - Text retrieved: '9'
+2025-02-21 12:26:48,275 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:48,280 - INFO - Text retrieved: '10'
+2025-02-21 12:26:48,280 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:48,286 - INFO - Text retrieved: '11'
+2025-02-21 12:26:48,286 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:48,292 - INFO - Text retrieved: '12'
+2025-02-21 12:26:48,292 - INFO - Found 'from' date: 12, clicking.
+2025-02-21 12:26:48,292 - INFO - Clicking provided WebElement.
+2025-02-21 12:26:48,339 - INFO - Clicked on element.
+2025-02-21 12:26:48,339 - INFO - Moving to the next month in the calendar.
+2025-02-21 12:26:48,339 - INFO - Clicking element with locator: //*[@class='Actionable-module__root___zPQHg Button-module__root___bGYBf Button-module__root--variant-tertiary___Y05n2 Button-module__root--icon-only___Ih3tJ Button-module__root--size-large___zmOYK Button-module__root--variant-tertiary-neutral___Wb5vx Calendar-module__control___FmpLg Calendar-module__control--next___kQcyp']
+2025-02-21 12:26:48,340 - INFO - Finding element with locator: //*[@class='Actionable-module__root___zPQHg Button-module__root___bGYBf Button-module__root--variant-tertiary___Y05n2 Button-module__root--icon-only___Ih3tJ Button-module__root--size-large___zmOYK Button-module__root--variant-tertiary-neutral___Wb5vx Calendar-module__control___FmpLg Calendar-module__control--next___kQcyp']
+2025-02-21 12:26:48,347 - INFO - Element found: //*[@class='Actionable-module__root___zPQHg Button-module__root___bGYBf Button-module__root--variant-tertiary___Y05n2 Button-module__root--icon-only___Ih3tJ Button-module__root--size-large___zmOYK Button-module__root--variant-tertiary-neutral___Wb5vx Calendar-module__control___FmpLg Calendar-module__control--next___kQcyp']
+2025-02-21 12:26:48,437 - INFO - Clicked on element.
+2025-02-21 12:26:48,437 - INFO - Getting text from element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 12:26:48,438 - INFO - Finding element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 12:26:48,445 - INFO - Element found: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 12:26:48,452 - INFO - Text retrieved: 'May 2025'
+2025-02-21 12:26:48,452 - INFO - Current calendar month: May 2025
+2025-02-21 12:26:48,452 - INFO - Selecting 'to' date: 18 May
+2025-02-21 12:26:48,453 - INFO - Finding elements with locator: //*[@class='Calendar-module__date___49U04 Calendar-module__date--hoverable___m4cjU']
+2025-02-21 12:26:48,467 - INFO - Found 61 elements with locator: //*[@class='Calendar-module__date___49U04 Calendar-module__date--hoverable___m4cjU']
+2025-02-21 12:26:48,468 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:48,478 - INFO - Text retrieved: '1'
+2025-02-21 12:26:48,478 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:48,486 - INFO - Text retrieved: '2'
+2025-02-21 12:26:48,487 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:48,496 - INFO - Text retrieved: '3'
+2025-02-21 12:26:48,496 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:48,506 - INFO - Text retrieved: '4'
+2025-02-21 12:26:48,506 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:48,514 - INFO - Text retrieved: '5'
+2025-02-21 12:26:48,514 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:48,523 - INFO - Text retrieved: '6'
+2025-02-21 12:26:48,523 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:48,532 - INFO - Text retrieved: '7'
+2025-02-21 12:26:48,532 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:48,541 - INFO - Text retrieved: '8'
+2025-02-21 12:26:48,541 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:48,548 - INFO - Text retrieved: '9'
+2025-02-21 12:26:48,549 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:48,555 - INFO - Text retrieved: '10'
+2025-02-21 12:26:48,555 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:48,562 - INFO - Text retrieved: '11'
+2025-02-21 12:26:48,562 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:48,568 - INFO - Text retrieved: '12'
+2025-02-21 12:26:48,568 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:48,574 - INFO - Text retrieved: '13'
+2025-02-21 12:26:48,574 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:48,580 - INFO - Text retrieved: '14'
+2025-02-21 12:26:48,580 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:48,586 - INFO - Text retrieved: '15'
+2025-02-21 12:26:48,586 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:48,591 - INFO - Text retrieved: '16'
+2025-02-21 12:26:48,592 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:48,597 - INFO - Text retrieved: '17'
+2025-02-21 12:26:48,597 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:48,603 - INFO - Text retrieved: '18'
+2025-02-21 12:26:48,603 - INFO - Found 'to' date: 18, clicking.
+2025-02-21 12:26:48,603 - INFO - Clicking provided WebElement.
+2025-02-21 12:26:48,663 - INFO - Clicked on element.
+2025-02-21 12:26:48,663 - INFO - Dates functionality verification successful.
+2025-02-21 12:26:50,183 - INFO - Verifying search button functionality.
+2025-02-21 12:26:50,183 - INFO - Verifying dates functionality: from 12 April, to 18 May
+2025-02-21 12:26:50,183 - INFO - Verifying input 'BOM' in the destination field.
+2025-02-21 12:26:50,185 - INFO - Verifying input 'DEL' in the origin field.
+2025-02-21 12:26:50,185 - INFO - Verifying removing already filled field in flights search.
+2025-02-21 12:26:50,185 - INFO - Clicking the Flights tab.
+2025-02-21 12:26:50,185 - INFO - Clicking element with locator: //*[@id='flights']
+2025-02-21 12:26:50,185 - INFO - Finding element with locator: //*[@id='flights']
+2025-02-21 12:26:50,668 - INFO - Element found: //*[@id='flights']
+2025-02-21 12:26:52,599 - INFO - Clicked on element.
+2025-02-21 12:26:52,602 - INFO - Flights page title: Find cheap flights & plane tickets | Booking.com
+2025-02-21 12:26:52,602 - INFO - Flights page redirection verification successful.
+2025-02-21 12:26:52,602 - INFO - Clicking the origin button.
+2025-02-21 12:26:52,602 - INFO - Clicking element with locator: //*[@data-ui-name='input_location_from_segment_0']
+2025-02-21 12:26:52,602 - INFO - Finding element with locator: //*[@data-ui-name='input_location_from_segment_0']
+2025-02-21 12:26:52,625 - INFO - Element found: //*[@data-ui-name='input_location_from_segment_0']
+2025-02-21 12:26:52,677 - INFO - Clicked on element.
+2025-02-21 12:26:52,677 - INFO - Clicking the already filled field.
+2025-02-21 12:26:52,677 - INFO - Clicking element with locator: //*[@class='Tags-module__text___90E7G']
+2025-02-21 12:26:52,677 - INFO - Finding element with locator: //*[@class='Tags-module__text___90E7G']
+2025-02-21 12:26:52,721 - INFO - Element found: //*[@class='Tags-module__text___90E7G']
+2025-02-21 12:26:52,855 - INFO - Clicked on element.
+2025-02-21 12:26:52,855 - INFO - Checking if element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- '] is displayed.
+2025-02-21 12:26:52,855 - INFO - Finding element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 12:26:52,861 - INFO - Element found: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 12:26:52,868 - INFO - Element //*[@class='AutoComplete-module__textInput___Qh3I- '] is displayed.
+2025-02-21 12:26:52,868 - INFO - Already filled field removed successfully.
+2025-02-21 12:26:52,868 - INFO - Entering text 'DEL' into the origin field.
+2025-02-21 12:26:52,871 - INFO - Entering text 'DEL' into element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 12:26:52,871 - INFO - Finding element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 12:26:52,878 - INFO - Element found: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 12:26:52,921 - INFO - Entered text 'DEL' into element.
+2025-02-21 12:26:52,921 - INFO - Finding elements with locator: //*[@id='flights-searchbox_suggestions']//span/b
+2025-02-21 12:26:53,960 - INFO - Found 11 elements with locator: //*[@id='flights-searchbox_suggestions']//span/b
+2025-02-21 12:26:53,960 - INFO - Found 11 autosuggestion options.
+2025-02-21 12:26:53,960 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:53,967 - INFO - Text retrieved: 'DEL'
+2025-02-21 12:26:53,967 - INFO - Checking autosuggestion option: 'DEL'
+2025-02-21 12:26:53,967 - INFO - Clicking the 'DEL' autosuggestion option.
+2025-02-21 12:26:53,967 - INFO - Clicking provided WebElement.
+2025-02-21 12:26:54,017 - INFO - Clicked on element.
+2025-02-21 12:26:54,018 - INFO - Getting text from element with locator: //*[@data-ui-name='input_location_from_segment_0']/div[1]//*[@class='Text-module__root--variant-body_2___7cHHf']
+2025-02-21 12:26:54,018 - INFO - Finding element with locator: //*[@data-ui-name='input_location_from_segment_0']/div[1]//*[@class='Text-module__root--variant-body_2___7cHHf']
+2025-02-21 12:26:54,025 - INFO - Element found: //*[@data-ui-name='input_location_from_segment_0']/div[1]//*[@class='Text-module__root--variant-body_2___7cHHf']
+2025-02-21 12:26:54,032 - INFO - Text retrieved: 'DEL Delhi International Airport'
+2025-02-21 12:26:54,032 - INFO - Origin field value after selection: 'DEL Delhi International Airport'
+2025-02-21 12:26:54,032 - INFO - Origin field input verification successful.
+2025-02-21 12:26:54,032 - INFO - Clicking the destination button.
+2025-02-21 12:26:54,032 - INFO - Clicking element with locator: //*[@data-ui-name='input_location_to_segment_0']
+2025-02-21 12:26:54,032 - INFO - Finding element with locator: //*[@data-ui-name='input_location_to_segment_0']
+2025-02-21 12:26:54,038 - INFO - Element found: //*[@data-ui-name='input_location_to_segment_0']
+2025-02-21 12:26:54,077 - INFO - Clicked on element.
+2025-02-21 12:26:54,077 - INFO - Entering text 'BOM' into the destination field.
+2025-02-21 12:26:54,077 - INFO - Entering text 'BOM' into element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 12:26:54,078 - INFO - Finding element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 12:26:54,086 - INFO - Element found: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 12:26:54,127 - INFO - Entered text 'BOM' into element.
+2025-02-21 12:26:54,127 - INFO - Finding elements with locator: //*[@id='flights-searchbox_suggestions']//span/b
+2025-02-21 12:26:54,782 - INFO - Found 1 elements with locator: //*[@id='flights-searchbox_suggestions']//span/b
+2025-02-21 12:26:54,782 - INFO - Found 1 autosuggestion options.
+2025-02-21 12:26:54,782 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:54,788 - INFO - Text retrieved: 'BOM'
+2025-02-21 12:26:54,788 - INFO - Checking autosuggestion option: 'BOM'
+2025-02-21 12:26:54,788 - INFO - Clicking the 'BOM' autosuggestion option.
+2025-02-21 12:26:54,788 - INFO - Clicking provided WebElement.
+2025-02-21 12:26:54,827 - INFO - Clicked on element.
+2025-02-21 12:26:54,827 - INFO - Getting text from element with locator: //*[@data-ui-name='input_location_to_segment_0']//*[@class='Text-module__root--variant-body_2___7cHHf']
+2025-02-21 12:26:54,827 - INFO - Finding element with locator: //*[@data-ui-name='input_location_to_segment_0']//*[@class='Text-module__root--variant-body_2___7cHHf']
+2025-02-21 12:26:54,834 - INFO - Element found: //*[@data-ui-name='input_location_to_segment_0']//*[@class='Text-module__root--variant-body_2___7cHHf']
+2025-02-21 12:26:54,840 - INFO - Text retrieved: 'BOM Chhatrapati Shivaji International Airport Mumbai'
+2025-02-21 12:26:54,841 - INFO - Destination field value after selection: 'BOM Chhatrapati Shivaji International Airport Mumbai'
+2025-02-21 12:26:54,841 - INFO - Destination field input verification successful.
+2025-02-21 12:26:54,841 - INFO - Clicking the select dates button.
+2025-02-21 12:26:54,841 - INFO - Clicking element with locator: //*[@data-ui-name='button_date_segment_0']
+2025-02-21 12:26:54,841 - INFO - Finding element with locator: //*[@data-ui-name='button_date_segment_0']
+2025-02-21 12:26:54,848 - INFO - Element found: //*[@data-ui-name='button_date_segment_0']
+2025-02-21 12:26:54,896 - INFO - Clicked on element.
+2025-02-21 12:26:54,896 - INFO - Getting text from element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 12:26:54,896 - INFO - Finding element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 12:26:54,917 - INFO - Element found: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 12:26:54,926 - INFO - Text retrieved: 'February 2025'
+2025-02-21 12:26:54,926 - INFO - Current calendar month: February 2025
+2025-02-21 12:26:54,927 - INFO - Moving to the next month in the calendar.
+2025-02-21 12:26:54,927 - INFO - Clicking element with locator: //*[@class='Actionable-module__root___zPQHg Button-module__root___bGYBf Button-module__root--variant-tertiary___Y05n2 Button-module__root--icon-only___Ih3tJ Button-module__root--size-large___zmOYK Button-module__root--variant-tertiary-neutral___Wb5vx Calendar-module__control___FmpLg Calendar-module__control--next___kQcyp']
+2025-02-21 12:26:54,927 - INFO - Finding element with locator: //*[@class='Actionable-module__root___zPQHg Button-module__root___bGYBf Button-module__root--variant-tertiary___Y05n2 Button-module__root--icon-only___Ih3tJ Button-module__root--size-large___zmOYK Button-module__root--variant-tertiary-neutral___Wb5vx Calendar-module__control___FmpLg Calendar-module__control--next___kQcyp']
+2025-02-21 12:26:54,935 - INFO - Element found: //*[@class='Actionable-module__root___zPQHg Button-module__root___bGYBf Button-module__root--variant-tertiary___Y05n2 Button-module__root--icon-only___Ih3tJ Button-module__root--size-large___zmOYK Button-module__root--variant-tertiary-neutral___Wb5vx Calendar-module__control___FmpLg Calendar-module__control--next___kQcyp']
+2025-02-21 12:26:54,995 - INFO - Clicked on element.
+2025-02-21 12:26:54,995 - INFO - Getting text from element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 12:26:54,995 - INFO - Finding element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 12:26:55,008 - INFO - Element found: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 12:26:55,019 - INFO - Text retrieved: 'March 2025'
+2025-02-21 12:26:55,019 - INFO - Current calendar month: March 2025
+2025-02-21 12:26:55,019 - INFO - Moving to the next month in the calendar.
+2025-02-21 12:26:55,020 - INFO - Clicking element with locator: //*[@class='Actionable-module__root___zPQHg Button-module__root___bGYBf Button-module__root--variant-tertiary___Y05n2 Button-module__root--icon-only___Ih3tJ Button-module__root--size-large___zmOYK Button-module__root--variant-tertiary-neutral___Wb5vx Calendar-module__control___FmpLg Calendar-module__control--next___kQcyp']
+2025-02-21 12:26:55,020 - INFO - Finding element with locator: //*[@class='Actionable-module__root___zPQHg Button-module__root___bGYBf Button-module__root--variant-tertiary___Y05n2 Button-module__root--icon-only___Ih3tJ Button-module__root--size-large___zmOYK Button-module__root--variant-tertiary-neutral___Wb5vx Calendar-module__control___FmpLg Calendar-module__control--next___kQcyp']
+2025-02-21 12:26:55,029 - INFO - Element found: //*[@class='Actionable-module__root___zPQHg Button-module__root___bGYBf Button-module__root--variant-tertiary___Y05n2 Button-module__root--icon-only___Ih3tJ Button-module__root--size-large___zmOYK Button-module__root--variant-tertiary-neutral___Wb5vx Calendar-module__control___FmpLg Calendar-module__control--next___kQcyp']
+2025-02-21 12:26:55,083 - INFO - Clicked on element.
+2025-02-21 12:26:55,083 - INFO - Getting text from element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 12:26:55,083 - INFO - Finding element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 12:26:55,091 - INFO - Element found: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 12:26:55,100 - INFO - Text retrieved: 'April 2025'
+2025-02-21 12:26:55,101 - INFO - Current calendar month: April 2025
+2025-02-21 12:26:55,101 - INFO - Selecting 'from' date: 12 April
+2025-02-21 12:26:55,101 - INFO - Finding elements with locator: //*[@class='Calendar-module__date___49U04 Calendar-module__date--hoverable___m4cjU']
+2025-02-21 12:26:55,112 - INFO - Found 61 elements with locator: //*[@class='Calendar-module__date___49U04 Calendar-module__date--hoverable___m4cjU']
+2025-02-21 12:26:55,114 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:55,122 - INFO - Text retrieved: '1'
+2025-02-21 12:26:55,123 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:55,130 - INFO - Text retrieved: '2'
+2025-02-21 12:26:55,130 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:55,136 - INFO - Text retrieved: '3'
+2025-02-21 12:26:55,136 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:55,142 - INFO - Text retrieved: '4'
+2025-02-21 12:26:55,142 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:55,150 - INFO - Text retrieved: '5'
+2025-02-21 12:26:55,150 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:55,156 - INFO - Text retrieved: '6'
+2025-02-21 12:26:55,156 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:55,164 - INFO - Text retrieved: '7'
+2025-02-21 12:26:55,164 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:55,170 - INFO - Text retrieved: '8'
+2025-02-21 12:26:55,170 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:55,178 - INFO - Text retrieved: '9'
+2025-02-21 12:26:55,180 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:55,187 - INFO - Text retrieved: '10'
+2025-02-21 12:26:55,187 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:55,194 - INFO - Text retrieved: '11'
+2025-02-21 12:26:55,195 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:55,203 - INFO - Text retrieved: '12'
+2025-02-21 12:26:55,203 - INFO - Found 'from' date: 12, clicking.
+2025-02-21 12:26:55,204 - INFO - Clicking provided WebElement.
+2025-02-21 12:26:55,256 - INFO - Clicked on element.
+2025-02-21 12:26:55,256 - INFO - Moving to the next month in the calendar.
+2025-02-21 12:26:55,256 - INFO - Clicking element with locator: //*[@class='Actionable-module__root___zPQHg Button-module__root___bGYBf Button-module__root--variant-tertiary___Y05n2 Button-module__root--icon-only___Ih3tJ Button-module__root--size-large___zmOYK Button-module__root--variant-tertiary-neutral___Wb5vx Calendar-module__control___FmpLg Calendar-module__control--next___kQcyp']
+2025-02-21 12:26:55,256 - INFO - Finding element with locator: //*[@class='Actionable-module__root___zPQHg Button-module__root___bGYBf Button-module__root--variant-tertiary___Y05n2 Button-module__root--icon-only___Ih3tJ Button-module__root--size-large___zmOYK Button-module__root--variant-tertiary-neutral___Wb5vx Calendar-module__control___FmpLg Calendar-module__control--next___kQcyp']
+2025-02-21 12:26:55,262 - INFO - Element found: //*[@class='Actionable-module__root___zPQHg Button-module__root___bGYBf Button-module__root--variant-tertiary___Y05n2 Button-module__root--icon-only___Ih3tJ Button-module__root--size-large___zmOYK Button-module__root--variant-tertiary-neutral___Wb5vx Calendar-module__control___FmpLg Calendar-module__control--next___kQcyp']
+2025-02-21 12:26:55,313 - INFO - Clicked on element.
+2025-02-21 12:26:55,313 - INFO - Getting text from element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 12:26:55,314 - INFO - Finding element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 12:26:55,322 - INFO - Element found: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 12:26:55,330 - INFO - Text retrieved: 'May 2025'
+2025-02-21 12:26:55,330 - INFO - Current calendar month: May 2025
+2025-02-21 12:26:55,330 - INFO - Selecting 'to' date: 18 May
+2025-02-21 12:26:55,331 - INFO - Finding elements with locator: //*[@class='Calendar-module__date___49U04 Calendar-module__date--hoverable___m4cjU']
+2025-02-21 12:26:55,342 - INFO - Found 61 elements with locator: //*[@class='Calendar-module__date___49U04 Calendar-module__date--hoverable___m4cjU']
+2025-02-21 12:26:55,342 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:55,350 - INFO - Text retrieved: '1'
+2025-02-21 12:26:55,350 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:55,357 - INFO - Text retrieved: '2'
+2025-02-21 12:26:55,358 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:55,365 - INFO - Text retrieved: '3'
+2025-02-21 12:26:55,365 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:55,372 - INFO - Text retrieved: '4'
+2025-02-21 12:26:55,372 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:55,380 - INFO - Text retrieved: '5'
+2025-02-21 12:26:55,380 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:55,386 - INFO - Text retrieved: '6'
+2025-02-21 12:26:55,386 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:55,391 - INFO - Text retrieved: '7'
+2025-02-21 12:26:55,392 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:55,397 - INFO - Text retrieved: '8'
+2025-02-21 12:26:55,397 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:55,403 - INFO - Text retrieved: '9'
+2025-02-21 12:26:55,403 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:55,409 - INFO - Text retrieved: '10'
+2025-02-21 12:26:55,409 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:55,415 - INFO - Text retrieved: '11'
+2025-02-21 12:26:55,415 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:55,421 - INFO - Text retrieved: '12'
+2025-02-21 12:26:55,421 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:55,427 - INFO - Text retrieved: '13'
+2025-02-21 12:26:55,427 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:55,433 - INFO - Text retrieved: '14'
+2025-02-21 12:26:55,433 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:55,439 - INFO - Text retrieved: '15'
+2025-02-21 12:26:55,439 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:55,445 - INFO - Text retrieved: '16'
+2025-02-21 12:26:55,445 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:55,450 - INFO - Text retrieved: '17'
+2025-02-21 12:26:55,450 - INFO - Getting text from provided WebElement.
+2025-02-21 12:26:55,456 - INFO - Text retrieved: '18'
+2025-02-21 12:26:55,456 - INFO - Found 'to' date: 18, clicking.
+2025-02-21 12:26:55,456 - INFO - Clicking provided WebElement.
+2025-02-21 12:26:55,512 - INFO - Clicked on element.
+2025-02-21 12:26:55,512 - INFO - Dates functionality verification successful.
+2025-02-21 12:26:55,513 - INFO - Clicking the search button.
+2025-02-21 12:26:55,513 - INFO - Clicking element with locator: //*[@data-ui-name='button_search_submit']
+2025-02-21 12:26:55,513 - INFO - Finding element with locator: //*[@data-ui-name='button_search_submit']
+2025-02-21 12:26:55,527 - INFO - Element found: //*[@data-ui-name='button_search_submit']
+2025-02-21 12:26:57,229 - INFO - Clicked on element.
+2025-02-21 12:26:57,229 - INFO - Waiting for flight details to load (15 seconds).
+2025-02-21 12:27:12,244 - INFO - Checking if element with locator: //*[@aria-label='Flight option'] is displayed.
+2025-02-21 12:27:12,244 - INFO - Finding element with locator: //*[@aria-label='Flight option']
+2025-02-21 12:27:12,256 - INFO - Element found: //*[@aria-label='Flight option']
+2025-02-21 12:27:12,262 - INFO - Element //*[@aria-label='Flight option'] is displayed.
+2025-02-21 12:27:12,262 - INFO - Search button functionality verification successful. Flight details displayed.
+2025-02-21 12:27:13,643 - INFO - Verifying the presence of alternate dates.
+2025-02-21 12:27:13,643 - INFO - Verifying search button functionality.
+2025-02-21 12:27:13,643 - INFO - Verifying dates functionality: from 12 April, to 18 May
+2025-02-21 12:27:13,643 - INFO - Verifying input 'BOM' in the destination field.
+2025-02-21 12:27:13,643 - INFO - Verifying input 'DEL' in the origin field.
+2025-02-21 12:27:13,643 - INFO - Verifying removing already filled field in flights search.
+2025-02-21 12:27:13,643 - INFO - Clicking the Flights tab.
+2025-02-21 12:27:13,643 - INFO - Clicking element with locator: //*[@id='flights']
+2025-02-21 12:27:13,643 - INFO - Finding element with locator: //*[@id='flights']
+2025-02-21 12:27:14,250 - INFO - Element found: //*[@id='flights']
+2025-02-21 12:27:16,396 - INFO - Clicked on element.
+2025-02-21 12:27:16,399 - INFO - Flights page title: Find cheap flights & plane tickets | Booking.com
+2025-02-21 12:27:16,399 - INFO - Flights page redirection verification successful.
+2025-02-21 12:27:16,399 - INFO - Clicking the origin button.
+2025-02-21 12:27:16,399 - INFO - Clicking element with locator: //*[@data-ui-name='input_location_from_segment_0']
+2025-02-21 12:27:16,399 - INFO - Finding element with locator: //*[@data-ui-name='input_location_from_segment_0']
+2025-02-21 12:27:16,408 - INFO - Element found: //*[@data-ui-name='input_location_from_segment_0']
+2025-02-21 12:27:16,452 - INFO - Clicked on element.
+2025-02-21 12:27:16,456 - INFO - Clicking the already filled field.
+2025-02-21 12:27:16,456 - INFO - Clicking element with locator: //*[@class='Tags-module__text___90E7G']
+2025-02-21 12:27:16,456 - INFO - Finding element with locator: //*[@class='Tags-module__text___90E7G']
+2025-02-21 12:27:16,467 - INFO - Element found: //*[@class='Tags-module__text___90E7G']
+2025-02-21 12:27:16,511 - INFO - Clicked on element.
+2025-02-21 12:27:16,511 - INFO - Checking if element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- '] is displayed.
+2025-02-21 12:27:16,511 - INFO - Finding element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 12:27:16,517 - INFO - Element found: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 12:27:16,523 - INFO - Element //*[@class='AutoComplete-module__textInput___Qh3I- '] is displayed.
+2025-02-21 12:27:16,524 - INFO - Already filled field removed successfully.
+2025-02-21 12:27:16,524 - INFO - Entering text 'DEL' into the origin field.
+2025-02-21 12:27:16,524 - INFO - Entering text 'DEL' into element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 12:27:16,524 - INFO - Finding element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 12:27:16,530 - INFO - Element found: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 12:27:16,574 - INFO - Entered text 'DEL' into element.
+2025-02-21 12:27:16,574 - INFO - Finding elements with locator: //*[@id='flights-searchbox_suggestions']//span/b
+2025-02-21 12:27:17,244 - INFO - Found 11 elements with locator: //*[@id='flights-searchbox_suggestions']//span/b
+2025-02-21 12:27:17,244 - INFO - Found 11 autosuggestion options.
+2025-02-21 12:27:17,244 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:17,248 - INFO - Text retrieved: 'DEL'
+2025-02-21 12:27:17,248 - INFO - Checking autosuggestion option: 'DEL'
+2025-02-21 12:27:17,248 - INFO - Clicking the 'DEL' autosuggestion option.
+2025-02-21 12:27:17,248 - INFO - Clicking provided WebElement.
+2025-02-21 12:27:17,299 - INFO - Clicked on element.
+2025-02-21 12:27:17,300 - INFO - Getting text from element with locator: //*[@data-ui-name='input_location_from_segment_0']/div[1]//*[@class='Text-module__root--variant-body_2___7cHHf']
+2025-02-21 12:27:17,300 - INFO - Finding element with locator: //*[@data-ui-name='input_location_from_segment_0']/div[1]//*[@class='Text-module__root--variant-body_2___7cHHf']
+2025-02-21 12:27:17,305 - INFO - Element found: //*[@data-ui-name='input_location_from_segment_0']/div[1]//*[@class='Text-module__root--variant-body_2___7cHHf']
+2025-02-21 12:27:17,312 - INFO - Text retrieved: 'DEL Delhi International Airport'
+2025-02-21 12:27:17,312 - INFO - Origin field value after selection: 'DEL Delhi International Airport'
+2025-02-21 12:27:17,312 - INFO - Origin field input verification successful.
+2025-02-21 12:27:17,312 - INFO - Clicking the destination button.
+2025-02-21 12:27:17,312 - INFO - Clicking element with locator: //*[@data-ui-name='input_location_to_segment_0']
+2025-02-21 12:27:17,312 - INFO - Finding element with locator: //*[@data-ui-name='input_location_to_segment_0']
+2025-02-21 12:27:17,318 - INFO - Element found: //*[@data-ui-name='input_location_to_segment_0']
+2025-02-21 12:27:17,355 - INFO - Clicked on element.
+2025-02-21 12:27:17,355 - INFO - Entering text 'BOM' into the destination field.
+2025-02-21 12:27:17,355 - INFO - Entering text 'BOM' into element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 12:27:17,355 - INFO - Finding element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 12:27:17,367 - INFO - Element found: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 12:27:17,401 - INFO - Entered text 'BOM' into element.
+2025-02-21 12:27:17,401 - INFO - Finding elements with locator: //*[@id='flights-searchbox_suggestions']//span/b
+2025-02-21 12:27:18,094 - INFO - Found 1 elements with locator: //*[@id='flights-searchbox_suggestions']//span/b
+2025-02-21 12:27:18,094 - INFO - Found 1 autosuggestion options.
+2025-02-21 12:27:18,094 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:18,100 - INFO - Text retrieved: 'BOM'
+2025-02-21 12:27:18,100 - INFO - Checking autosuggestion option: 'BOM'
+2025-02-21 12:27:18,100 - INFO - Clicking the 'BOM' autosuggestion option.
+2025-02-21 12:27:18,100 - INFO - Clicking provided WebElement.
+2025-02-21 12:27:18,146 - INFO - Clicked on element.
+2025-02-21 12:27:18,146 - INFO - Getting text from element with locator: //*[@data-ui-name='input_location_to_segment_0']//*[@class='Text-module__root--variant-body_2___7cHHf']
+2025-02-21 12:27:18,146 - INFO - Finding element with locator: //*[@data-ui-name='input_location_to_segment_0']//*[@class='Text-module__root--variant-body_2___7cHHf']
+2025-02-21 12:27:18,153 - INFO - Element found: //*[@data-ui-name='input_location_to_segment_0']//*[@class='Text-module__root--variant-body_2___7cHHf']
+2025-02-21 12:27:18,159 - INFO - Text retrieved: 'BOM Chhatrapati Shivaji International Airport Mumbai'
+2025-02-21 12:27:18,159 - INFO - Destination field value after selection: 'BOM Chhatrapati Shivaji International Airport Mumbai'
+2025-02-21 12:27:18,159 - INFO - Destination field input verification successful.
+2025-02-21 12:27:18,161 - INFO - Clicking the select dates button.
+2025-02-21 12:27:18,161 - INFO - Clicking element with locator: //*[@data-ui-name='button_date_segment_0']
+2025-02-21 12:27:18,161 - INFO - Finding element with locator: //*[@data-ui-name='button_date_segment_0']
+2025-02-21 12:27:18,165 - INFO - Element found: //*[@data-ui-name='button_date_segment_0']
+2025-02-21 12:27:18,214 - INFO - Clicked on element.
+2025-02-21 12:27:18,214 - INFO - Getting text from element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 12:27:18,214 - INFO - Finding element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 12:27:18,232 - INFO - Element found: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 12:27:18,243 - INFO - Text retrieved: 'February 2025'
+2025-02-21 12:27:18,243 - INFO - Current calendar month: February 2025
+2025-02-21 12:27:18,243 - INFO - Moving to the next month in the calendar.
+2025-02-21 12:27:18,243 - INFO - Clicking element with locator: //*[@class='Actionable-module__root___zPQHg Button-module__root___bGYBf Button-module__root--variant-tertiary___Y05n2 Button-module__root--icon-only___Ih3tJ Button-module__root--size-large___zmOYK Button-module__root--variant-tertiary-neutral___Wb5vx Calendar-module__control___FmpLg Calendar-module__control--next___kQcyp']
+2025-02-21 12:27:18,243 - INFO - Finding element with locator: //*[@class='Actionable-module__root___zPQHg Button-module__root___bGYBf Button-module__root--variant-tertiary___Y05n2 Button-module__root--icon-only___Ih3tJ Button-module__root--size-large___zmOYK Button-module__root--variant-tertiary-neutral___Wb5vx Calendar-module__control___FmpLg Calendar-module__control--next___kQcyp']
+2025-02-21 12:27:18,249 - INFO - Element found: //*[@class='Actionable-module__root___zPQHg Button-module__root___bGYBf Button-module__root--variant-tertiary___Y05n2 Button-module__root--icon-only___Ih3tJ Button-module__root--size-large___zmOYK Button-module__root--variant-tertiary-neutral___Wb5vx Calendar-module__control___FmpLg Calendar-module__control--next___kQcyp']
+2025-02-21 12:27:18,306 - INFO - Clicked on element.
+2025-02-21 12:27:18,306 - INFO - Getting text from element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 12:27:18,306 - INFO - Finding element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 12:27:18,314 - INFO - Element found: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 12:27:18,320 - INFO - Text retrieved: 'March 2025'
+2025-02-21 12:27:18,321 - INFO - Current calendar month: March 2025
+2025-02-21 12:27:18,321 - INFO - Moving to the next month in the calendar.
+2025-02-21 12:27:18,321 - INFO - Clicking element with locator: //*[@class='Actionable-module__root___zPQHg Button-module__root___bGYBf Button-module__root--variant-tertiary___Y05n2 Button-module__root--icon-only___Ih3tJ Button-module__root--size-large___zmOYK Button-module__root--variant-tertiary-neutral___Wb5vx Calendar-module__control___FmpLg Calendar-module__control--next___kQcyp']
+2025-02-21 12:27:18,321 - INFO - Finding element with locator: //*[@class='Actionable-module__root___zPQHg Button-module__root___bGYBf Button-module__root--variant-tertiary___Y05n2 Button-module__root--icon-only___Ih3tJ Button-module__root--size-large___zmOYK Button-module__root--variant-tertiary-neutral___Wb5vx Calendar-module__control___FmpLg Calendar-module__control--next___kQcyp']
+2025-02-21 12:27:18,329 - INFO - Element found: //*[@class='Actionable-module__root___zPQHg Button-module__root___bGYBf Button-module__root--variant-tertiary___Y05n2 Button-module__root--icon-only___Ih3tJ Button-module__root--size-large___zmOYK Button-module__root--variant-tertiary-neutral___Wb5vx Calendar-module__control___FmpLg Calendar-module__control--next___kQcyp']
+2025-02-21 12:27:18,383 - INFO - Clicked on element.
+2025-02-21 12:27:18,383 - INFO - Getting text from element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 12:27:18,385 - INFO - Finding element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 12:27:18,400 - INFO - Element found: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 12:27:18,409 - INFO - Text retrieved: 'April 2025'
+2025-02-21 12:27:18,409 - INFO - Current calendar month: April 2025
+2025-02-21 12:27:18,410 - INFO - Selecting 'from' date: 12 April
+2025-02-21 12:27:18,410 - INFO - Finding elements with locator: //*[@class='Calendar-module__date___49U04 Calendar-module__date--hoverable___m4cjU']
+2025-02-21 12:27:18,422 - INFO - Found 61 elements with locator: //*[@class='Calendar-module__date___49U04 Calendar-module__date--hoverable___m4cjU']
+2025-02-21 12:27:18,422 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:18,430 - INFO - Text retrieved: '1'
+2025-02-21 12:27:18,430 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:18,437 - INFO - Text retrieved: '2'
+2025-02-21 12:27:18,437 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:18,444 - INFO - Text retrieved: '3'
+2025-02-21 12:27:18,444 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:18,451 - INFO - Text retrieved: '4'
+2025-02-21 12:27:18,451 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:18,457 - INFO - Text retrieved: '5'
+2025-02-21 12:27:18,457 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:18,463 - INFO - Text retrieved: '6'
+2025-02-21 12:27:18,463 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:18,470 - INFO - Text retrieved: '7'
+2025-02-21 12:27:18,470 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:18,475 - INFO - Text retrieved: '8'
+2025-02-21 12:27:18,475 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:18,481 - INFO - Text retrieved: '9'
+2025-02-21 12:27:18,481 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:18,487 - INFO - Text retrieved: '10'
+2025-02-21 12:27:18,487 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:18,492 - INFO - Text retrieved: '11'
+2025-02-21 12:27:18,492 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:18,497 - INFO - Text retrieved: '12'
+2025-02-21 12:27:18,497 - INFO - Found 'from' date: 12, clicking.
+2025-02-21 12:27:18,497 - INFO - Clicking provided WebElement.
+2025-02-21 12:27:18,539 - INFO - Clicked on element.
+2025-02-21 12:27:18,539 - INFO - Moving to the next month in the calendar.
+2025-02-21 12:27:18,539 - INFO - Clicking element with locator: //*[@class='Actionable-module__root___zPQHg Button-module__root___bGYBf Button-module__root--variant-tertiary___Y05n2 Button-module__root--icon-only___Ih3tJ Button-module__root--size-large___zmOYK Button-module__root--variant-tertiary-neutral___Wb5vx Calendar-module__control___FmpLg Calendar-module__control--next___kQcyp']
+2025-02-21 12:27:18,539 - INFO - Finding element with locator: //*[@class='Actionable-module__root___zPQHg Button-module__root___bGYBf Button-module__root--variant-tertiary___Y05n2 Button-module__root--icon-only___Ih3tJ Button-module__root--size-large___zmOYK Button-module__root--variant-tertiary-neutral___Wb5vx Calendar-module__control___FmpLg Calendar-module__control--next___kQcyp']
+2025-02-21 12:27:18,545 - INFO - Element found: //*[@class='Actionable-module__root___zPQHg Button-module__root___bGYBf Button-module__root--variant-tertiary___Y05n2 Button-module__root--icon-only___Ih3tJ Button-module__root--size-large___zmOYK Button-module__root--variant-tertiary-neutral___Wb5vx Calendar-module__control___FmpLg Calendar-module__control--next___kQcyp']
+2025-02-21 12:27:18,599 - INFO - Clicked on element.
+2025-02-21 12:27:18,599 - INFO - Getting text from element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 12:27:18,599 - INFO - Finding element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 12:27:18,607 - INFO - Element found: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 12:27:18,614 - INFO - Text retrieved: 'May 2025'
+2025-02-21 12:27:18,614 - INFO - Current calendar month: May 2025
+2025-02-21 12:27:18,614 - INFO - Selecting 'to' date: 18 May
+2025-02-21 12:27:18,614 - INFO - Finding elements with locator: //*[@class='Calendar-module__date___49U04 Calendar-module__date--hoverable___m4cjU']
+2025-02-21 12:27:18,626 - INFO - Found 61 elements with locator: //*[@class='Calendar-module__date___49U04 Calendar-module__date--hoverable___m4cjU']
+2025-02-21 12:27:18,627 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:18,633 - INFO - Text retrieved: '1'
+2025-02-21 12:27:18,634 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:18,641 - INFO - Text retrieved: '2'
+2025-02-21 12:27:18,641 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:18,649 - INFO - Text retrieved: '3'
+2025-02-21 12:27:18,649 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:18,656 - INFO - Text retrieved: '4'
+2025-02-21 12:27:18,656 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:18,663 - INFO - Text retrieved: '5'
+2025-02-21 12:27:18,663 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:18,668 - INFO - Text retrieved: '6'
+2025-02-21 12:27:18,668 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:18,675 - INFO - Text retrieved: '7'
+2025-02-21 12:27:18,675 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:18,681 - INFO - Text retrieved: '8'
+2025-02-21 12:27:18,681 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:18,688 - INFO - Text retrieved: '9'
+2025-02-21 12:27:18,688 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:18,694 - INFO - Text retrieved: '10'
+2025-02-21 12:27:18,694 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:18,700 - INFO - Text retrieved: '11'
+2025-02-21 12:27:18,700 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:18,706 - INFO - Text retrieved: '12'
+2025-02-21 12:27:18,706 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:18,711 - INFO - Text retrieved: '13'
+2025-02-21 12:27:18,711 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:18,718 - INFO - Text retrieved: '14'
+2025-02-21 12:27:18,718 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:18,725 - INFO - Text retrieved: '15'
+2025-02-21 12:27:18,725 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:18,732 - INFO - Text retrieved: '16'
+2025-02-21 12:27:18,732 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:18,740 - INFO - Text retrieved: '17'
+2025-02-21 12:27:18,740 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:18,748 - INFO - Text retrieved: '18'
+2025-02-21 12:27:18,748 - INFO - Found 'to' date: 18, clicking.
+2025-02-21 12:27:18,748 - INFO - Clicking provided WebElement.
+2025-02-21 12:27:18,808 - INFO - Clicked on element.
+2025-02-21 12:27:18,809 - INFO - Dates functionality verification successful.
+2025-02-21 12:27:18,809 - INFO - Clicking the search button.
+2025-02-21 12:27:18,809 - INFO - Clicking element with locator: //*[@data-ui-name='button_search_submit']
+2025-02-21 12:27:18,809 - INFO - Finding element with locator: //*[@data-ui-name='button_search_submit']
+2025-02-21 12:27:18,819 - INFO - Element found: //*[@data-ui-name='button_search_submit']
+2025-02-21 12:27:20,615 - INFO - Clicked on element.
+2025-02-21 12:27:20,615 - INFO - Waiting for flight details to load (15 seconds).
+2025-02-21 12:27:35,623 - INFO - Checking if element with locator: //*[@aria-label='Flight option'] is displayed.
+2025-02-21 12:27:35,623 - INFO - Finding element with locator: //*[@aria-label='Flight option']
+2025-02-21 12:27:35,632 - INFO - Element found: //*[@aria-label='Flight option']
+2025-02-21 12:27:35,638 - INFO - Element //*[@aria-label='Flight option'] is displayed.
+2025-02-21 12:27:35,638 - INFO - Search button functionality verification successful. Flight details displayed.
+2025-02-21 12:27:35,638 - INFO - Checking if element with locator: //*[@aria-label='Alternative dates with prices']//div/div[1] is displayed.
+2025-02-21 12:27:35,638 - INFO - Finding element with locator: //*[@aria-label='Alternative dates with prices']//div/div[1]
+2025-02-21 12:27:35,647 - INFO - Element found: //*[@aria-label='Alternative dates with prices']//div/div[1]
+2025-02-21 12:27:35,651 - INFO - Element //*[@aria-label='Alternative dates with prices']//div/div[1] is displayed.
+2025-02-21 12:27:35,651 - INFO - Alternate dates element is displayed. Verification successful.
+2025-02-21 12:27:37,092 - INFO - Clicking the Flights tab.
+2025-02-21 12:27:37,092 - INFO - Clicking element with locator: //*[@id='flights']
+2025-02-21 12:27:37,092 - INFO - Finding element with locator: //*[@id='flights']
+2025-02-21 12:27:37,693 - INFO - Element found: //*[@id='flights']
+2025-02-21 12:27:39,752 - INFO - Clicked on element.
+2025-02-21 12:27:39,757 - INFO - Flights page title: Find cheap flights & plane tickets | Booking.com
+2025-02-21 12:27:39,757 - INFO - Flights page redirection verification successful.
+2025-02-21 12:27:39,757 - INFO - Clicking element with locator: //*[@data-ui-name='button_search_submit']
+2025-02-21 12:27:39,757 - INFO - Finding element with locator: //*[@data-ui-name='button_search_submit']
+2025-02-21 12:27:39,763 - INFO - Element found: //*[@data-ui-name='button_search_submit']
+2025-02-21 12:27:39,805 - INFO - Clicked on element.
+2025-02-21 12:27:39,805 - INFO - Checking if element with locator: //*[@class='ErrorMessage-module__content___nDCzG'] is displayed.
+2025-02-21 12:27:39,805 - INFO - Finding element with locator: //*[@class='ErrorMessage-module__content___nDCzG']
+2025-02-21 12:27:39,818 - INFO - Element found: //*[@class='ErrorMessage-module__content___nDCzG']
+2025-02-21 12:27:39,825 - INFO - Element //*[@class='ErrorMessage-module__content___nDCzG'] is displayed.
+2025-02-21 12:27:41,631 - INFO - Verifying search button functionality.
+2025-02-21 12:27:41,632 - INFO - Verifying dates functionality: from 12 April, to 18 May
+2025-02-21 12:27:41,632 - INFO - Verifying input 'OMJ' in the destination field.
+2025-02-21 12:27:41,632 - INFO - Verifying input 'DEL' in the origin field.
+2025-02-21 12:27:41,632 - INFO - Verifying removing already filled field in flights search.
+2025-02-21 12:27:41,632 - INFO - Clicking the Flights tab.
+2025-02-21 12:27:41,632 - INFO - Clicking element with locator: //*[@id='flights']
+2025-02-21 12:27:41,632 - INFO - Finding element with locator: //*[@id='flights']
+2025-02-21 12:27:42,174 - INFO - Element found: //*[@id='flights']
+2025-02-21 12:27:44,282 - INFO - Clicked on element.
+2025-02-21 12:27:44,286 - INFO - Flights page title: Find cheap flights & plane tickets | Booking.com
+2025-02-21 12:27:44,286 - INFO - Flights page redirection verification successful.
+2025-02-21 12:27:44,286 - INFO - Clicking the origin button.
+2025-02-21 12:27:44,286 - INFO - Clicking element with locator: //*[@data-ui-name='input_location_from_segment_0']
+2025-02-21 12:27:44,286 - INFO - Finding element with locator: //*[@data-ui-name='input_location_from_segment_0']
+2025-02-21 12:27:44,294 - INFO - Element found: //*[@data-ui-name='input_location_from_segment_0']
+2025-02-21 12:27:44,346 - INFO - Clicked on element.
+2025-02-21 12:27:44,346 - INFO - Clicking the already filled field.
+2025-02-21 12:27:44,346 - INFO - Clicking element with locator: //*[@class='Tags-module__text___90E7G']
+2025-02-21 12:27:44,346 - INFO - Finding element with locator: //*[@class='Tags-module__text___90E7G']
+2025-02-21 12:27:44,357 - INFO - Element found: //*[@class='Tags-module__text___90E7G']
+2025-02-21 12:27:44,415 - INFO - Clicked on element.
+2025-02-21 12:27:44,415 - INFO - Checking if element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- '] is displayed.
+2025-02-21 12:27:44,415 - INFO - Finding element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 12:27:44,424 - INFO - Element found: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 12:27:44,429 - INFO - Element //*[@class='AutoComplete-module__textInput___Qh3I- '] is displayed.
+2025-02-21 12:27:44,429 - INFO - Already filled field removed successfully.
+2025-02-21 12:27:44,429 - INFO - Entering text 'DEL' into the origin field.
+2025-02-21 12:27:44,429 - INFO - Entering text 'DEL' into element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 12:27:44,430 - INFO - Finding element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 12:27:44,435 - INFO - Element found: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 12:27:44,475 - INFO - Entered text 'DEL' into element.
+2025-02-21 12:27:44,475 - INFO - Finding elements with locator: //*[@id='flights-searchbox_suggestions']//span/b
+2025-02-21 12:27:45,111 - INFO - Found 11 elements with locator: //*[@id='flights-searchbox_suggestions']//span/b
+2025-02-21 12:27:45,111 - INFO - Found 11 autosuggestion options.
+2025-02-21 12:27:45,111 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:45,118 - INFO - Text retrieved: 'DEL'
+2025-02-21 12:27:45,118 - INFO - Checking autosuggestion option: 'DEL'
+2025-02-21 12:27:45,118 - INFO - Clicking the 'DEL' autosuggestion option.
+2025-02-21 12:27:45,118 - INFO - Clicking provided WebElement.
+2025-02-21 12:27:45,248 - INFO - Clicked on element.
+2025-02-21 12:27:45,248 - INFO - Getting text from element with locator: //*[@data-ui-name='input_location_from_segment_0']/div[1]//*[@class='Text-module__root--variant-body_2___7cHHf']
+2025-02-21 12:27:45,248 - INFO - Finding element with locator: //*[@data-ui-name='input_location_from_segment_0']/div[1]//*[@class='Text-module__root--variant-body_2___7cHHf']
+2025-02-21 12:27:45,276 - INFO - Element found: //*[@data-ui-name='input_location_from_segment_0']/div[1]//*[@class='Text-module__root--variant-body_2___7cHHf']
+2025-02-21 12:27:45,276 - INFO - Text retrieved: 'DEL Delhi International Airport'
+2025-02-21 12:27:45,276 - INFO - Origin field value after selection: 'DEL Delhi International Airport'
+2025-02-21 12:27:45,276 - INFO - Origin field input verification successful.
+2025-02-21 12:27:45,276 - INFO - Clicking the destination button.
+2025-02-21 12:27:45,276 - INFO - Clicking element with locator: //*[@data-ui-name='input_location_to_segment_0']
+2025-02-21 12:27:45,276 - INFO - Finding element with locator: //*[@data-ui-name='input_location_to_segment_0']
+2025-02-21 12:27:45,292 - INFO - Element found: //*[@data-ui-name='input_location_to_segment_0']
+2025-02-21 12:27:45,341 - INFO - Clicked on element.
+2025-02-21 12:27:45,342 - INFO - Entering text 'OMJ' into the destination field.
+2025-02-21 12:27:45,342 - INFO - Entering text 'OMJ' into element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 12:27:45,342 - INFO - Finding element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 12:27:45,354 - INFO - Element found: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 12:27:45,519 - INFO - Entered text 'OMJ' into element.
+2025-02-21 12:27:45,519 - INFO - Finding elements with locator: //*[@id='flights-searchbox_suggestions']//span/b
+2025-02-21 12:27:46,166 - INFO - Found 1 elements with locator: //*[@id='flights-searchbox_suggestions']//span/b
+2025-02-21 12:27:46,167 - INFO - Found 1 autosuggestion options.
+2025-02-21 12:27:46,167 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:46,178 - INFO - Text retrieved: 'OMJ'
+2025-02-21 12:27:46,180 - INFO - Checking autosuggestion option: 'OMJ'
+2025-02-21 12:27:46,180 - INFO - Clicking the 'BOM' autosuggestion option.
+2025-02-21 12:27:46,180 - INFO - Clicking provided WebElement.
+2025-02-21 12:27:46,251 - INFO - Clicked on element.
+2025-02-21 12:27:46,251 - INFO - Getting text from element with locator: //*[@data-ui-name='input_location_to_segment_0']//*[@class='Text-module__root--variant-body_2___7cHHf']
+2025-02-21 12:27:46,252 - INFO - Finding element with locator: //*[@data-ui-name='input_location_to_segment_0']//*[@class='Text-module__root--variant-body_2___7cHHf']
+2025-02-21 12:27:46,262 - INFO - Element found: //*[@data-ui-name='input_location_to_segment_0']//*[@class='Text-module__root--variant-body_2___7cHHf']
+2025-02-21 12:27:46,271 - INFO - Text retrieved: 'OMJ Omura Airport'
+2025-02-21 12:27:46,271 - INFO - Destination field value after selection: 'OMJ Omura Airport'
+2025-02-21 12:27:46,271 - WARNING - Destination field input verification failed. Expected: 'BOM Chhatrapati Shivaji International Airport Mumbai', Actual: 'OMJ Omura Airport'
+2025-02-21 12:27:46,272 - INFO - Clicking the select dates button.
+2025-02-21 12:27:46,272 - INFO - Clicking element with locator: //*[@data-ui-name='button_date_segment_0']
+2025-02-21 12:27:46,272 - INFO - Finding element with locator: //*[@data-ui-name='button_date_segment_0']
+2025-02-21 12:27:46,283 - INFO - Element found: //*[@data-ui-name='button_date_segment_0']
+2025-02-21 12:27:46,359 - INFO - Clicked on element.
+2025-02-21 12:27:46,359 - INFO - Getting text from element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 12:27:46,359 - INFO - Finding element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 12:27:46,400 - INFO - Element found: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 12:27:46,409 - INFO - Text retrieved: 'February 2025'
+2025-02-21 12:27:46,409 - INFO - Current calendar month: February 2025
+2025-02-21 12:27:46,409 - INFO - Moving to the next month in the calendar.
+2025-02-21 12:27:46,410 - INFO - Clicking element with locator: //*[@class='Actionable-module__root___zPQHg Button-module__root___bGYBf Button-module__root--variant-tertiary___Y05n2 Button-module__root--icon-only___Ih3tJ Button-module__root--size-large___zmOYK Button-module__root--variant-tertiary-neutral___Wb5vx Calendar-module__control___FmpLg Calendar-module__control--next___kQcyp']
+2025-02-21 12:27:46,410 - INFO - Finding element with locator: //*[@class='Actionable-module__root___zPQHg Button-module__root___bGYBf Button-module__root--variant-tertiary___Y05n2 Button-module__root--icon-only___Ih3tJ Button-module__root--size-large___zmOYK Button-module__root--variant-tertiary-neutral___Wb5vx Calendar-module__control___FmpLg Calendar-module__control--next___kQcyp']
+2025-02-21 12:27:46,420 - INFO - Element found: //*[@class='Actionable-module__root___zPQHg Button-module__root___bGYBf Button-module__root--variant-tertiary___Y05n2 Button-module__root--icon-only___Ih3tJ Button-module__root--size-large___zmOYK Button-module__root--variant-tertiary-neutral___Wb5vx Calendar-module__control___FmpLg Calendar-module__control--next___kQcyp']
+2025-02-21 12:27:46,477 - INFO - Clicked on element.
+2025-02-21 12:27:46,477 - INFO - Getting text from element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 12:27:46,477 - INFO - Finding element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 12:27:46,487 - INFO - Element found: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 12:27:46,495 - INFO - Text retrieved: 'March 2025'
+2025-02-21 12:27:46,496 - INFO - Current calendar month: March 2025
+2025-02-21 12:27:46,496 - INFO - Moving to the next month in the calendar.
+2025-02-21 12:27:46,496 - INFO - Clicking element with locator: //*[@class='Actionable-module__root___zPQHg Button-module__root___bGYBf Button-module__root--variant-tertiary___Y05n2 Button-module__root--icon-only___Ih3tJ Button-module__root--size-large___zmOYK Button-module__root--variant-tertiary-neutral___Wb5vx Calendar-module__control___FmpLg Calendar-module__control--next___kQcyp']
+2025-02-21 12:27:46,496 - INFO - Finding element with locator: //*[@class='Actionable-module__root___zPQHg Button-module__root___bGYBf Button-module__root--variant-tertiary___Y05n2 Button-module__root--icon-only___Ih3tJ Button-module__root--size-large___zmOYK Button-module__root--variant-tertiary-neutral___Wb5vx Calendar-module__control___FmpLg Calendar-module__control--next___kQcyp']
+2025-02-21 12:27:46,506 - INFO - Element found: //*[@class='Actionable-module__root___zPQHg Button-module__root___bGYBf Button-module__root--variant-tertiary___Y05n2 Button-module__root--icon-only___Ih3tJ Button-module__root--size-large___zmOYK Button-module__root--variant-tertiary-neutral___Wb5vx Calendar-module__control___FmpLg Calendar-module__control--next___kQcyp']
+2025-02-21 12:27:46,571 - INFO - Clicked on element.
+2025-02-21 12:27:46,572 - INFO - Getting text from element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 12:27:46,572 - INFO - Finding element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 12:27:46,580 - INFO - Element found: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 12:27:46,588 - INFO - Text retrieved: 'April 2025'
+2025-02-21 12:27:46,588 - INFO - Current calendar month: April 2025
+2025-02-21 12:27:46,588 - INFO - Selecting 'from' date: 12 April
+2025-02-21 12:27:46,589 - INFO - Finding elements with locator: //*[@class='Calendar-module__date___49U04 Calendar-module__date--hoverable___m4cjU']
+2025-02-21 12:27:46,607 - INFO - Found 61 elements with locator: //*[@class='Calendar-module__date___49U04 Calendar-module__date--hoverable___m4cjU']
+2025-02-21 12:27:46,607 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:46,616 - INFO - Text retrieved: '1'
+2025-02-21 12:27:46,616 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:46,624 - INFO - Text retrieved: '2'
+2025-02-21 12:27:46,624 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:46,632 - INFO - Text retrieved: '3'
+2025-02-21 12:27:46,632 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:46,639 - INFO - Text retrieved: '4'
+2025-02-21 12:27:46,640 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:46,647 - INFO - Text retrieved: '5'
+2025-02-21 12:27:46,647 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:46,654 - INFO - Text retrieved: '6'
+2025-02-21 12:27:46,654 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:46,662 - INFO - Text retrieved: '7'
+2025-02-21 12:27:46,663 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:46,670 - INFO - Text retrieved: '8'
+2025-02-21 12:27:46,671 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:46,677 - INFO - Text retrieved: '9'
+2025-02-21 12:27:46,677 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:46,684 - INFO - Text retrieved: '10'
+2025-02-21 12:27:46,684 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:46,690 - INFO - Text retrieved: '11'
+2025-02-21 12:27:46,691 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:46,697 - INFO - Text retrieved: '12'
+2025-02-21 12:27:46,697 - INFO - Found 'from' date: 12, clicking.
+2025-02-21 12:27:46,697 - INFO - Clicking provided WebElement.
+2025-02-21 12:27:46,745 - INFO - Clicked on element.
+2025-02-21 12:27:46,745 - INFO - Moving to the next month in the calendar.
+2025-02-21 12:27:46,745 - INFO - Clicking element with locator: //*[@class='Actionable-module__root___zPQHg Button-module__root___bGYBf Button-module__root--variant-tertiary___Y05n2 Button-module__root--icon-only___Ih3tJ Button-module__root--size-large___zmOYK Button-module__root--variant-tertiary-neutral___Wb5vx Calendar-module__control___FmpLg Calendar-module__control--next___kQcyp']
+2025-02-21 12:27:46,745 - INFO - Finding element with locator: //*[@class='Actionable-module__root___zPQHg Button-module__root___bGYBf Button-module__root--variant-tertiary___Y05n2 Button-module__root--icon-only___Ih3tJ Button-module__root--size-large___zmOYK Button-module__root--variant-tertiary-neutral___Wb5vx Calendar-module__control___FmpLg Calendar-module__control--next___kQcyp']
+2025-02-21 12:27:46,756 - INFO - Element found: //*[@class='Actionable-module__root___zPQHg Button-module__root___bGYBf Button-module__root--variant-tertiary___Y05n2 Button-module__root--icon-only___Ih3tJ Button-module__root--size-large___zmOYK Button-module__root--variant-tertiary-neutral___Wb5vx Calendar-module__control___FmpLg Calendar-module__control--next___kQcyp']
+2025-02-21 12:27:46,809 - INFO - Clicked on element.
+2025-02-21 12:27:46,809 - INFO - Getting text from element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 12:27:46,809 - INFO - Finding element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 12:27:46,818 - INFO - Element found: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 12:27:46,826 - INFO - Text retrieved: 'May 2025'
+2025-02-21 12:27:46,826 - INFO - Current calendar month: May 2025
+2025-02-21 12:27:46,826 - INFO - Selecting 'to' date: 18 May
+2025-02-21 12:27:46,826 - INFO - Finding elements with locator: //*[@class='Calendar-module__date___49U04 Calendar-module__date--hoverable___m4cjU']
+2025-02-21 12:27:46,841 - INFO - Found 61 elements with locator: //*[@class='Calendar-module__date___49U04 Calendar-module__date--hoverable___m4cjU']
+2025-02-21 12:27:46,841 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:46,850 - INFO - Text retrieved: '1'
+2025-02-21 12:27:46,850 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:46,862 - INFO - Text retrieved: '2'
+2025-02-21 12:27:46,862 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:46,870 - INFO - Text retrieved: '3'
+2025-02-21 12:27:46,870 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:46,880 - INFO - Text retrieved: '4'
+2025-02-21 12:27:46,880 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:46,890 - INFO - Text retrieved: '5'
+2025-02-21 12:27:46,892 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:46,898 - INFO - Text retrieved: '6'
+2025-02-21 12:27:46,898 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:46,904 - INFO - Text retrieved: '7'
+2025-02-21 12:27:46,904 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:46,909 - INFO - Text retrieved: '8'
+2025-02-21 12:27:46,909 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:46,915 - INFO - Text retrieved: '9'
+2025-02-21 12:27:46,915 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:46,923 - INFO - Text retrieved: '10'
+2025-02-21 12:27:46,923 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:46,932 - INFO - Text retrieved: '11'
+2025-02-21 12:27:46,932 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:46,938 - INFO - Text retrieved: '12'
+2025-02-21 12:27:46,938 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:46,945 - INFO - Text retrieved: '13'
+2025-02-21 12:27:46,945 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:46,951 - INFO - Text retrieved: '14'
+2025-02-21 12:27:46,951 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:46,957 - INFO - Text retrieved: '15'
+2025-02-21 12:27:46,957 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:46,963 - INFO - Text retrieved: '16'
+2025-02-21 12:27:46,963 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:46,969 - INFO - Text retrieved: '17'
+2025-02-21 12:27:46,969 - INFO - Getting text from provided WebElement.
+2025-02-21 12:27:46,974 - INFO - Text retrieved: '18'
+2025-02-21 12:27:46,974 - INFO - Found 'to' date: 18, clicking.
+2025-02-21 12:27:46,974 - INFO - Clicking provided WebElement.
+2025-02-21 12:27:47,027 - INFO - Clicked on element.
+2025-02-21 12:27:47,027 - INFO - Dates functionality verification successful.
+2025-02-21 12:27:47,027 - INFO - Clicking the search button.
+2025-02-21 12:27:47,027 - INFO - Clicking element with locator: //*[@data-ui-name='button_search_submit']
+2025-02-21 12:27:47,027 - INFO - Finding element with locator: //*[@data-ui-name='button_search_submit']
+2025-02-21 12:27:47,034 - INFO - Element found: //*[@data-ui-name='button_search_submit']
+2025-02-21 12:27:48,645 - INFO - Clicked on element.
+2025-02-21 12:27:48,645 - INFO - Waiting for flight details to load (15 seconds).
+2025-02-21 12:28:03,652 - INFO - Checking if element with locator: //*[@aria-label='Flight option'] is displayed.
+2025-02-21 12:28:03,652 - INFO - Finding element with locator: //*[@aria-label='Flight option']
+2025-02-21 12:28:13,703 - ERROR - Error finding element //*[@aria-label='Flight option']: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@aria-label='Flight option']"}
+  (Session info: chrome=133.0.6943.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF656336EE5+28773]
+	(No symbol) [0x00007FF6562A25D0]
+	(No symbol) [0x00007FF656138FAA]
+	(No symbol) [0x00007FF65618F286]
+	(No symbol) [0x00007FF65618F4BC]
+	(No symbol) [0x00007FF6561E2A27]
+	(No symbol) [0x00007FF6561B728F]
+	(No symbol) [0x00007FF6561DF6F3]
+	(No symbol) [0x00007FF6561B7023]
+	(No symbol) [0x00007FF65617FF5E]
+	(No symbol) [0x00007FF6561811E3]
+	GetHandleVerifier [0x00007FF65668422D+3490733]
+	GetHandleVerifier [0x00007FF65669BA13+3586963]
+	GetHandleVerifier [0x00007FF65669144D+3544525]
+	GetHandleVerifier [0x00007FF6563FC9AA+838442]
+	(No symbol) [0x00007FF6562AD01F]
+	(No symbol) [0x00007FF6562A95E4]
+	(No symbol) [0x00007FF6562A9786]
+	(No symbol) [0x00007FF656298CB9]
+	BaseThreadInitThunk [0x00007FFA4819E8D7+23]
+	RtlUserThreadStart [0x00007FFA496FBF6C+44]
+
+2025-02-21 12:28:13,703 - INFO - Element //*[@aria-label='Flight option'] is not displayed.
+2025-02-21 12:28:13,704 - WARNING - Search button functionality verification failed. Flight details not displayed.
+2025-02-21 12:28:13,704 - INFO - Checking if element with locator: //*[text() = "We can’t find any flights that match your search"] is displayed.
+2025-02-21 12:28:13,704 - INFO - Finding element with locator: //*[text() = "We can’t find any flights that match your search"]
+2025-02-21 12:28:13,713 - INFO - Element found: //*[text() = "We can’t find any flights that match your search"]
+2025-02-21 12:28:13,720 - INFO - Element //*[text() = "We can’t find any flights that match your search"] is displayed.
