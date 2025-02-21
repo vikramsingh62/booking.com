@@ -5,17 +5,19 @@ from selenium import webdriver
 def pytest_addoption(parser):
     parser.addoption("--headless", action="store_true", help="Run tests in headless mode")
 
-@pytest.fixture(autouse=True,scope="class")
+
+@pytest.fixture(autouse=True, scope="class")
 def driver(request):
     options = webdriver.ChromeOptions()
     if request.config.getoption("--headless"):
-        options.add_argument("--headless")  # Enable headless mode if the flag is used
-    options.add_argument("--start-maximized")  # Start browser maximized
-    driver = webdriver.Chrome(options=options)
-    driver.implicitly_wait(10)
+        options.add_argument("--headless")
+    options.add_argument("--start-maximized")
+
+    service = Service(ChromeDriverManager().install())  # Auto-manages ChromeDriver
+    driver = webdriver.Chrome(service=service, options=options)
+
     yield driver
     driver.quit()
-
 
 
 logging.basicConfig(

@@ -3874,3 +3874,539 @@ Stacktrace:
 2025-02-21 10:59:45,779 - INFO - Moving to the next month in the calendar.
 2025-02-21 10:59:45,779 - INFO - Clicking element with locator: //*[@data-ui-name='calendar_body']/button[2]
 2025-02-21 10:59:45,779 - INFO - Finding element with locator: //*[@data-ui-name='calendar_body']/button[2]
+2025-02-21 11:03:01,757 - INFO - Page title: Booking.com | Official site | The best hotels, flights, car rentals & accommodations
+2025-02-21 11:03:01,757 - INFO - Landing page verification successful.
+2025-02-21 11:03:03,667 - INFO - Clicking the Flights tab.
+2025-02-21 11:03:03,668 - INFO - Clicking element with locator: //*[@id='flights']
+2025-02-21 11:03:03,668 - INFO - Finding element with locator: //*[@id='flights']
+2025-02-21 11:03:04,802 - INFO - Element found: //*[@id='flights']
+2025-02-21 11:03:07,044 - INFO - Clicked on element.
+2025-02-21 11:03:07,048 - INFO - Flights page title: Find cheap flights & plane tickets | Booking.com
+2025-02-21 11:03:07,048 - INFO - Flights page redirection verification successful.
+2025-02-21 11:03:08,620 - INFO - Verifying removing already filled field in flights search.
+2025-02-21 11:03:08,620 - INFO - Clicking the Flights tab.
+2025-02-21 11:03:08,620 - INFO - Clicking element with locator: //*[@id='flights']
+2025-02-21 11:03:08,620 - INFO - Finding element with locator: //*[@id='flights']
+2025-02-21 11:03:09,578 - INFO - Element found: //*[@id='flights']
+2025-02-21 11:03:11,402 - INFO - Clicked on element.
+2025-02-21 11:03:11,404 - INFO - Flights page title: Find cheap flights & plane tickets | Booking.com
+2025-02-21 11:03:11,404 - INFO - Flights page redirection verification successful.
+2025-02-21 11:03:11,404 - INFO - Clicking the origin button.
+2025-02-21 11:03:11,404 - INFO - Clicking element with locator: //*[@data-ui-name='input_location_from_segment_0']
+2025-02-21 11:03:11,408 - INFO - Finding element with locator: //*[@data-ui-name='input_location_from_segment_0']
+2025-02-21 11:03:11,417 - INFO - Element found: //*[@data-ui-name='input_location_from_segment_0']
+2025-02-21 11:03:11,473 - INFO - Clicked on element.
+2025-02-21 11:03:11,473 - INFO - Clicking the already filled field.
+2025-02-21 11:03:11,473 - INFO - Clicking element with locator: //*[@class='Tags-module__text___90E7G']
+2025-02-21 11:03:11,474 - INFO - Finding element with locator: //*[@class='Tags-module__text___90E7G']
+2025-02-21 11:03:11,484 - INFO - Element found: //*[@class='Tags-module__text___90E7G']
+2025-02-21 11:03:11,545 - INFO - Clicked on element.
+2025-02-21 11:03:11,545 - INFO - Checking if element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- '] is displayed.
+2025-02-21 11:03:11,545 - INFO - Finding element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 11:03:11,558 - INFO - Element found: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 11:03:11,564 - INFO - Element //*[@class='AutoComplete-module__textInput___Qh3I- '] is displayed.
+2025-02-21 11:03:11,564 - INFO - Already filled field removed successfully.
+2025-02-21 11:03:13,017 - INFO - Verifying input 'DEL' in the origin field.
+2025-02-21 11:03:13,017 - INFO - Verifying removing already filled field in flights search.
+2025-02-21 11:03:13,018 - INFO - Clicking the Flights tab.
+2025-02-21 11:03:13,018 - INFO - Clicking element with locator: //*[@id='flights']
+2025-02-21 11:03:13,018 - INFO - Finding element with locator: //*[@id='flights']
+2025-02-21 11:03:13,573 - INFO - Element found: //*[@id='flights']
+2025-02-21 11:03:14,864 - INFO - Clicked on element.
+2025-02-21 11:03:14,864 - INFO - Flights page title: Find cheap flights & plane tickets | Booking.com
+2025-02-21 11:03:14,864 - INFO - Flights page redirection verification successful.
+2025-02-21 11:03:14,864 - INFO - Clicking the origin button.
+2025-02-21 11:03:14,864 - INFO - Clicking element with locator: //*[@data-ui-name='input_location_from_segment_0']
+2025-02-21 11:03:14,864 - INFO - Finding element with locator: //*[@data-ui-name='input_location_from_segment_0']
+2025-02-21 11:03:14,872 - INFO - Element found: //*[@data-ui-name='input_location_from_segment_0']
+2025-02-21 11:03:14,924 - INFO - Clicked on element.
+2025-02-21 11:03:14,924 - INFO - Clicking the already filled field.
+2025-02-21 11:03:14,924 - INFO - Clicking element with locator: //*[@class='Tags-module__text___90E7G']
+2025-02-21 11:03:14,925 - INFO - Finding element with locator: //*[@class='Tags-module__text___90E7G']
+2025-02-21 11:03:14,958 - INFO - Element found: //*[@class='Tags-module__text___90E7G']
+2025-02-21 11:03:15,096 - INFO - Clicked on element.
+2025-02-21 11:03:15,096 - INFO - Checking if element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- '] is displayed.
+2025-02-21 11:03:15,096 - INFO - Finding element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 11:03:15,101 - INFO - Element found: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 11:03:15,108 - INFO - Element //*[@class='AutoComplete-module__textInput___Qh3I- '] is displayed.
+2025-02-21 11:03:15,108 - INFO - Already filled field removed successfully.
+2025-02-21 11:03:15,108 - INFO - Entering text 'DEL' into the origin field.
+2025-02-21 11:03:15,108 - INFO - Entering text 'DEL' into element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 11:03:15,108 - INFO - Finding element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 11:03:15,129 - INFO - Element found: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 11:03:15,177 - INFO - Entered text 'DEL' into element.
+2025-02-21 11:03:15,177 - INFO - Finding elements with locator: //*[@id='flights-searchbox_suggestions']//span/b
+2025-02-21 11:03:15,871 - INFO - Found 11 elements with locator: //*[@id='flights-searchbox_suggestions']//span/b
+2025-02-21 11:03:15,871 - INFO - Found 11 autosuggestion options.
+2025-02-21 11:03:15,871 - INFO - Getting text from provided WebElement.
+2025-02-21 11:03:15,891 - INFO - Text retrieved: 'DEL'
+2025-02-21 11:03:15,891 - INFO - Checking autosuggestion option: 'DEL'
+2025-02-21 11:03:15,891 - INFO - Clicking the 'DEL' autosuggestion option.
+2025-02-21 11:03:15,891 - INFO - Clicking provided WebElement.
+2025-02-21 11:03:15,940 - INFO - Clicked on element.
+2025-02-21 11:03:15,940 - INFO - Getting text from element with locator: //*[@data-ui-name='input_location_from_segment_0']/div[1]//*[@class='Text-module__root--variant-body_2___7cHHf']
+2025-02-21 11:03:15,940 - INFO - Finding element with locator: //*[@data-ui-name='input_location_from_segment_0']/div[1]//*[@class='Text-module__root--variant-body_2___7cHHf']
+2025-02-21 11:03:15,957 - INFO - Element found: //*[@data-ui-name='input_location_from_segment_0']/div[1]//*[@class='Text-module__root--variant-body_2___7cHHf']
+2025-02-21 11:03:15,963 - INFO - Text retrieved: 'DEL Delhi International Airport'
+2025-02-21 11:03:15,964 - INFO - Origin field value after selection: 'DEL Delhi International Airport'
+2025-02-21 11:03:15,964 - INFO - Origin field input verification successful.
+2025-02-21 11:03:17,519 - INFO - Verifying input 'BOM' in the destination field.
+2025-02-21 11:03:17,519 - INFO - Verifying input 'DEL' in the origin field.
+2025-02-21 11:03:17,519 - INFO - Verifying removing already filled field in flights search.
+2025-02-21 11:03:17,519 - INFO - Clicking the Flights tab.
+2025-02-21 11:03:17,519 - INFO - Clicking element with locator: //*[@id='flights']
+2025-02-21 11:03:17,519 - INFO - Finding element with locator: //*[@id='flights']
+2025-02-21 11:03:18,199 - INFO - Element found: //*[@id='flights']
+2025-02-21 11:03:19,897 - INFO - Clicked on element.
+2025-02-21 11:03:19,902 - INFO - Flights page title: Find cheap flights & plane tickets | Booking.com
+2025-02-21 11:03:19,902 - INFO - Flights page redirection verification successful.
+2025-02-21 11:03:19,902 - INFO - Clicking the origin button.
+2025-02-21 11:03:19,902 - INFO - Clicking element with locator: //*[@data-ui-name='input_location_from_segment_0']
+2025-02-21 11:03:19,902 - INFO - Finding element with locator: //*[@data-ui-name='input_location_from_segment_0']
+2025-02-21 11:03:19,910 - INFO - Element found: //*[@data-ui-name='input_location_from_segment_0']
+2025-02-21 11:03:19,987 - INFO - Clicked on element.
+2025-02-21 11:03:19,987 - INFO - Clicking the already filled field.
+2025-02-21 11:03:19,987 - INFO - Clicking element with locator: //*[@class='Tags-module__text___90E7G']
+2025-02-21 11:03:19,987 - INFO - Finding element with locator: //*[@class='Tags-module__text___90E7G']
+2025-02-21 11:03:20,034 - INFO - Element found: //*[@class='Tags-module__text___90E7G']
+2025-02-21 11:03:20,238 - INFO - Clicked on element.
+2025-02-21 11:03:20,240 - INFO - Checking if element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- '] is displayed.
+2025-02-21 11:03:20,240 - INFO - Finding element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 11:03:20,246 - INFO - Element found: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 11:03:20,252 - INFO - Element //*[@class='AutoComplete-module__textInput___Qh3I- '] is displayed.
+2025-02-21 11:03:20,252 - INFO - Already filled field removed successfully.
+2025-02-21 11:03:20,252 - INFO - Entering text 'DEL' into the origin field.
+2025-02-21 11:03:20,253 - INFO - Entering text 'DEL' into element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 11:03:20,253 - INFO - Finding element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 11:03:20,256 - INFO - Element found: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 11:03:20,298 - INFO - Entered text 'DEL' into element.
+2025-02-21 11:03:20,298 - INFO - Finding elements with locator: //*[@id='flights-searchbox_suggestions']//span/b
+2025-02-21 11:03:20,982 - INFO - Found 11 elements with locator: //*[@id='flights-searchbox_suggestions']//span/b
+2025-02-21 11:03:20,982 - INFO - Found 11 autosuggestion options.
+2025-02-21 11:03:20,982 - INFO - Getting text from provided WebElement.
+2025-02-21 11:03:20,989 - INFO - Text retrieved: 'DEL'
+2025-02-21 11:03:20,989 - INFO - Checking autosuggestion option: 'DEL'
+2025-02-21 11:03:20,989 - INFO - Clicking the 'DEL' autosuggestion option.
+2025-02-21 11:03:20,989 - INFO - Clicking provided WebElement.
+2025-02-21 11:03:21,049 - INFO - Clicked on element.
+2025-02-21 11:03:21,049 - INFO - Getting text from element with locator: //*[@data-ui-name='input_location_from_segment_0']/div[1]//*[@class='Text-module__root--variant-body_2___7cHHf']
+2025-02-21 11:03:21,049 - INFO - Finding element with locator: //*[@data-ui-name='input_location_from_segment_0']/div[1]//*[@class='Text-module__root--variant-body_2___7cHHf']
+2025-02-21 11:03:21,056 - INFO - Element found: //*[@data-ui-name='input_location_from_segment_0']/div[1]//*[@class='Text-module__root--variant-body_2___7cHHf']
+2025-02-21 11:03:21,063 - INFO - Text retrieved: 'DEL Delhi International Airport'
+2025-02-21 11:03:21,063 - INFO - Origin field value after selection: 'DEL Delhi International Airport'
+2025-02-21 11:03:21,063 - INFO - Origin field input verification successful.
+2025-02-21 11:03:21,064 - INFO - Clicking the destination button.
+2025-02-21 11:03:21,064 - INFO - Clicking element with locator: //*[@data-ui-name='input_location_to_segment_0']
+2025-02-21 11:03:21,064 - INFO - Finding element with locator: //*[@data-ui-name='input_location_to_segment_0']
+2025-02-21 11:03:21,073 - INFO - Element found: //*[@data-ui-name='input_location_to_segment_0']
+2025-02-21 11:03:21,117 - INFO - Clicked on element.
+2025-02-21 11:03:21,117 - INFO - Entering text 'BOM' into the destination field.
+2025-02-21 11:03:21,117 - INFO - Entering text 'BOM' into element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 11:03:21,117 - INFO - Finding element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 11:03:21,128 - INFO - Element found: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 11:03:21,168 - INFO - Entered text 'BOM' into element.
+2025-02-21 11:03:21,168 - INFO - Finding elements with locator: //*[@id='flights-searchbox_suggestions']//span/b
+2025-02-21 11:03:21,806 - INFO - Found 1 elements with locator: //*[@id='flights-searchbox_suggestions']//span/b
+2025-02-21 11:03:21,806 - INFO - Found 1 autosuggestion options.
+2025-02-21 11:03:21,806 - INFO - Getting text from provided WebElement.
+2025-02-21 11:03:21,812 - INFO - Text retrieved: 'BOM'
+2025-02-21 11:03:21,812 - INFO - Checking autosuggestion option: 'BOM'
+2025-02-21 11:03:21,812 - INFO - Clicking the 'BOM' autosuggestion option.
+2025-02-21 11:03:21,812 - INFO - Clicking provided WebElement.
+2025-02-21 11:03:21,852 - INFO - Clicked on element.
+2025-02-21 11:03:21,852 - INFO - Getting text from element with locator: //*[@data-ui-name='input_location_to_segment_0']//*[@class='Text-module__root--variant-body_2___7cHHf']
+2025-02-21 11:03:21,852 - INFO - Finding element with locator: //*[@data-ui-name='input_location_to_segment_0']//*[@class='Text-module__root--variant-body_2___7cHHf']
+2025-02-21 11:03:21,861 - INFO - Element found: //*[@data-ui-name='input_location_to_segment_0']//*[@class='Text-module__root--variant-body_2___7cHHf']
+2025-02-21 11:03:21,867 - INFO - Text retrieved: 'BOM Chhatrapati Shivaji International Airport Mumbai'
+2025-02-21 11:03:21,867 - INFO - Destination field value after selection: 'BOM Chhatrapati Shivaji International Airport Mumbai'
+2025-02-21 11:03:21,867 - INFO - Destination field input verification successful.
+2025-02-21 11:03:23,388 - INFO - Verifying dates functionality: from 12 April, to 18 May
+2025-02-21 11:03:23,388 - INFO - Verifying input 'BOM' in the destination field.
+2025-02-21 11:03:23,388 - INFO - Verifying input 'DEL' in the origin field.
+2025-02-21 11:03:23,388 - INFO - Verifying removing already filled field in flights search.
+2025-02-21 11:03:23,388 - INFO - Clicking the Flights tab.
+2025-02-21 11:03:23,388 - INFO - Clicking element with locator: //*[@id='flights']
+2025-02-21 11:03:23,388 - INFO - Finding element with locator: //*[@id='flights']
+2025-02-21 11:03:24,145 - INFO - Element found: //*[@id='flights']
+2025-02-21 11:03:25,455 - INFO - Clicked on element.
+2025-02-21 11:03:25,459 - INFO - Flights page title: Find cheap flights & plane tickets | Booking.com
+2025-02-21 11:03:25,459 - INFO - Flights page redirection verification successful.
+2025-02-21 11:03:25,459 - INFO - Clicking the origin button.
+2025-02-21 11:03:25,459 - INFO - Clicking element with locator: //*[@data-ui-name='input_location_from_segment_0']
+2025-02-21 11:03:25,459 - INFO - Finding element with locator: //*[@data-ui-name='input_location_from_segment_0']
+2025-02-21 11:03:25,464 - INFO - Element found: //*[@data-ui-name='input_location_from_segment_0']
+2025-02-21 11:03:25,526 - INFO - Clicked on element.
+2025-02-21 11:03:25,526 - INFO - Clicking the already filled field.
+2025-02-21 11:03:25,526 - INFO - Clicking element with locator: //*[@class='Tags-module__text___90E7G']
+2025-02-21 11:03:25,526 - INFO - Finding element with locator: //*[@class='Tags-module__text___90E7G']
+2025-02-21 11:03:25,542 - INFO - Element found: //*[@class='Tags-module__text___90E7G']
+2025-02-21 11:03:25,674 - INFO - Clicked on element.
+2025-02-21 11:03:25,674 - INFO - Checking if element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- '] is displayed.
+2025-02-21 11:03:25,674 - INFO - Finding element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 11:03:25,683 - INFO - Element found: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 11:03:25,690 - INFO - Element //*[@class='AutoComplete-module__textInput___Qh3I- '] is displayed.
+2025-02-21 11:03:25,690 - INFO - Already filled field removed successfully.
+2025-02-21 11:03:25,690 - INFO - Entering text 'DEL' into the origin field.
+2025-02-21 11:03:25,690 - INFO - Entering text 'DEL' into element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 11:03:25,690 - INFO - Finding element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 11:03:25,697 - INFO - Element found: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 11:03:25,740 - INFO - Entered text 'DEL' into element.
+2025-02-21 11:03:25,740 - INFO - Finding elements with locator: //*[@id='flights-searchbox_suggestions']//span/b
+2025-02-21 11:03:26,415 - INFO - Found 11 elements with locator: //*[@id='flights-searchbox_suggestions']//span/b
+2025-02-21 11:03:26,415 - INFO - Found 11 autosuggestion options.
+2025-02-21 11:03:26,420 - INFO - Getting text from provided WebElement.
+2025-02-21 11:03:26,425 - INFO - Text retrieved: 'DEL'
+2025-02-21 11:03:26,425 - INFO - Checking autosuggestion option: 'DEL'
+2025-02-21 11:03:26,426 - INFO - Clicking the 'DEL' autosuggestion option.
+2025-02-21 11:03:26,426 - INFO - Clicking provided WebElement.
+2025-02-21 11:03:26,470 - INFO - Clicked on element.
+2025-02-21 11:03:26,470 - INFO - Getting text from element with locator: //*[@data-ui-name='input_location_from_segment_0']/div[1]//*[@class='Text-module__root--variant-body_2___7cHHf']
+2025-02-21 11:03:26,470 - INFO - Finding element with locator: //*[@data-ui-name='input_location_from_segment_0']/div[1]//*[@class='Text-module__root--variant-body_2___7cHHf']
+2025-02-21 11:03:26,475 - INFO - Element found: //*[@data-ui-name='input_location_from_segment_0']/div[1]//*[@class='Text-module__root--variant-body_2___7cHHf']
+2025-02-21 11:03:26,482 - INFO - Text retrieved: 'DEL Delhi International Airport'
+2025-02-21 11:03:26,482 - INFO - Origin field value after selection: 'DEL Delhi International Airport'
+2025-02-21 11:03:26,482 - INFO - Origin field input verification successful.
+2025-02-21 11:03:26,482 - INFO - Clicking the destination button.
+2025-02-21 11:03:26,482 - INFO - Clicking element with locator: //*[@data-ui-name='input_location_to_segment_0']
+2025-02-21 11:03:26,482 - INFO - Finding element with locator: //*[@data-ui-name='input_location_to_segment_0']
+2025-02-21 11:03:26,486 - INFO - Element found: //*[@data-ui-name='input_location_to_segment_0']
+2025-02-21 11:03:26,521 - INFO - Clicked on element.
+2025-02-21 11:03:26,521 - INFO - Entering text 'BOM' into the destination field.
+2025-02-21 11:03:26,521 - INFO - Entering text 'BOM' into element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 11:03:26,521 - INFO - Finding element with locator: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 11:03:26,528 - INFO - Element found: //*[@class='AutoComplete-module__textInput___Qh3I- ']
+2025-02-21 11:03:26,570 - INFO - Entered text 'BOM' into element.
+2025-02-21 11:03:26,570 - INFO - Finding elements with locator: //*[@id='flights-searchbox_suggestions']//span/b
+2025-02-21 11:03:27,213 - INFO - Found 1 elements with locator: //*[@id='flights-searchbox_suggestions']//span/b
+2025-02-21 11:03:27,213 - INFO - Found 1 autosuggestion options.
+2025-02-21 11:03:27,213 - INFO - Getting text from provided WebElement.
+2025-02-21 11:03:27,218 - INFO - Text retrieved: 'BOM'
+2025-02-21 11:03:27,218 - INFO - Checking autosuggestion option: 'BOM'
+2025-02-21 11:03:27,218 - INFO - Clicking the 'BOM' autosuggestion option.
+2025-02-21 11:03:27,218 - INFO - Clicking provided WebElement.
+2025-02-21 11:03:27,256 - INFO - Clicked on element.
+2025-02-21 11:03:27,256 - INFO - Getting text from element with locator: //*[@data-ui-name='input_location_to_segment_0']//*[@class='Text-module__root--variant-body_2___7cHHf']
+2025-02-21 11:03:27,256 - INFO - Finding element with locator: //*[@data-ui-name='input_location_to_segment_0']//*[@class='Text-module__root--variant-body_2___7cHHf']
+2025-02-21 11:03:27,262 - INFO - Element found: //*[@data-ui-name='input_location_to_segment_0']//*[@class='Text-module__root--variant-body_2___7cHHf']
+2025-02-21 11:03:27,268 - INFO - Text retrieved: 'BOM Chhatrapati Shivaji International Airport Mumbai'
+2025-02-21 11:03:27,268 - INFO - Destination field value after selection: 'BOM Chhatrapati Shivaji International Airport Mumbai'
+2025-02-21 11:03:27,268 - INFO - Destination field input verification successful.
+2025-02-21 11:03:27,268 - INFO - Clicking the select dates button.
+2025-02-21 11:03:27,268 - INFO - Clicking element with locator: //*[@data-ui-name='button_date_segment_0']
+2025-02-21 11:03:27,268 - INFO - Finding element with locator: //*[@data-ui-name='button_date_segment_0']
+2025-02-21 11:03:27,275 - INFO - Element found: //*[@data-ui-name='button_date_segment_0']
+2025-02-21 11:03:27,322 - INFO - Clicked on element.
+2025-02-21 11:03:27,322 - INFO - Getting text from element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 11:03:27,322 - INFO - Finding element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 11:03:27,344 - INFO - Element found: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 11:03:27,351 - INFO - Text retrieved: 'February 2025'
+2025-02-21 11:03:27,352 - INFO - Current calendar month: February 2025
+2025-02-21 11:03:27,352 - INFO - Moving to the next month in the calendar.
+2025-02-21 11:03:27,352 - INFO - Clicking element with locator: //*[@data-ui-name='calendar_body']/button[2]
+2025-02-21 11:03:27,352 - INFO - Finding element with locator: //*[@data-ui-name='calendar_body']/button[2]
+2025-02-21 11:03:37,385 - ERROR - Error finding element //*[@data-ui-name='calendar_body']/button[2]: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@data-ui-name='calendar_body']/button[2]"}
+  (Session info: chrome=133.0.6943.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF74F376EE5+28773]
+	(No symbol) [0x00007FF74F2E25D0]
+	(No symbol) [0x00007FF74F178FAA]
+	(No symbol) [0x00007FF74F1CF286]
+	(No symbol) [0x00007FF74F1CF4BC]
+	(No symbol) [0x00007FF74F222A27]
+	(No symbol) [0x00007FF74F1F728F]
+	(No symbol) [0x00007FF74F21F6F3]
+	(No symbol) [0x00007FF74F1F7023]
+	(No symbol) [0x00007FF74F1BFF5E]
+	(No symbol) [0x00007FF74F1C11E3]
+	GetHandleVerifier [0x00007FF74F6C422D+3490733]
+	GetHandleVerifier [0x00007FF74F6DBA13+3586963]
+	GetHandleVerifier [0x00007FF74F6D144D+3544525]
+	GetHandleVerifier [0x00007FF74F43C9AA+838442]
+	(No symbol) [0x00007FF74F2ED01F]
+	(No symbol) [0x00007FF74F2E95E4]
+	(No symbol) [0x00007FF74F2E9786]
+	(No symbol) [0x00007FF74F2D8CB9]
+	BaseThreadInitThunk [0x00007FFA4819E8D7+23]
+	RtlUserThreadStart [0x00007FFA496FBF6C+44]
+
+2025-02-21 11:03:37,386 - WARNING - Element to click was not found.
+2025-02-21 11:03:37,386 - INFO - Getting text from element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 11:03:37,386 - INFO - Finding element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 11:03:37,392 - INFO - Element found: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 11:03:37,398 - INFO - Text retrieved: 'February 2025'
+2025-02-21 11:03:37,398 - INFO - Current calendar month: February 2025
+2025-02-21 11:03:37,398 - INFO - Moving to the next month in the calendar.
+2025-02-21 11:03:37,398 - INFO - Clicking element with locator: //*[@data-ui-name='calendar_body']/button[2]
+2025-02-21 11:03:37,398 - INFO - Finding element with locator: //*[@data-ui-name='calendar_body']/button[2]
+2025-02-21 11:03:47,447 - ERROR - Error finding element //*[@data-ui-name='calendar_body']/button[2]: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@data-ui-name='calendar_body']/button[2]"}
+  (Session info: chrome=133.0.6943.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF74F376EE5+28773]
+	(No symbol) [0x00007FF74F2E25D0]
+	(No symbol) [0x00007FF74F178FAA]
+	(No symbol) [0x00007FF74F1CF286]
+	(No symbol) [0x00007FF74F1CF4BC]
+	(No symbol) [0x00007FF74F222A27]
+	(No symbol) [0x00007FF74F1F728F]
+	(No symbol) [0x00007FF74F21F6F3]
+	(No symbol) [0x00007FF74F1F7023]
+	(No symbol) [0x00007FF74F1BFF5E]
+	(No symbol) [0x00007FF74F1C11E3]
+	GetHandleVerifier [0x00007FF74F6C422D+3490733]
+	GetHandleVerifier [0x00007FF74F6DBA13+3586963]
+	GetHandleVerifier [0x00007FF74F6D144D+3544525]
+	GetHandleVerifier [0x00007FF74F43C9AA+838442]
+	(No symbol) [0x00007FF74F2ED01F]
+	(No symbol) [0x00007FF74F2E95E4]
+	(No symbol) [0x00007FF74F2E9786]
+	(No symbol) [0x00007FF74F2D8CB9]
+	BaseThreadInitThunk [0x00007FFA4819E8D7+23]
+	RtlUserThreadStart [0x00007FFA496FBF6C+44]
+
+2025-02-21 11:03:47,447 - WARNING - Element to click was not found.
+2025-02-21 11:03:47,448 - INFO - Getting text from element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 11:03:47,448 - INFO - Finding element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 11:03:47,454 - INFO - Element found: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 11:03:47,459 - INFO - Text retrieved: 'February 2025'
+2025-02-21 11:03:47,459 - INFO - Current calendar month: February 2025
+2025-02-21 11:03:47,459 - INFO - Moving to the next month in the calendar.
+2025-02-21 11:03:47,459 - INFO - Clicking element with locator: //*[@data-ui-name='calendar_body']/button[2]
+2025-02-21 11:03:47,459 - INFO - Finding element with locator: //*[@data-ui-name='calendar_body']/button[2]
+2025-02-21 11:03:57,509 - ERROR - Error finding element //*[@data-ui-name='calendar_body']/button[2]: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@data-ui-name='calendar_body']/button[2]"}
+  (Session info: chrome=133.0.6943.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF74F376EE5+28773]
+	(No symbol) [0x00007FF74F2E25D0]
+	(No symbol) [0x00007FF74F178FAA]
+	(No symbol) [0x00007FF74F1CF286]
+	(No symbol) [0x00007FF74F1CF4BC]
+	(No symbol) [0x00007FF74F222A27]
+	(No symbol) [0x00007FF74F1F728F]
+	(No symbol) [0x00007FF74F21F6F3]
+	(No symbol) [0x00007FF74F1F7023]
+	(No symbol) [0x00007FF74F1BFF5E]
+	(No symbol) [0x00007FF74F1C11E3]
+	GetHandleVerifier [0x00007FF74F6C422D+3490733]
+	GetHandleVerifier [0x00007FF74F6DBA13+3586963]
+	GetHandleVerifier [0x00007FF74F6D144D+3544525]
+	GetHandleVerifier [0x00007FF74F43C9AA+838442]
+	(No symbol) [0x00007FF74F2ED01F]
+	(No symbol) [0x00007FF74F2E95E4]
+	(No symbol) [0x00007FF74F2E9786]
+	(No symbol) [0x00007FF74F2D8CB9]
+	BaseThreadInitThunk [0x00007FFA4819E8D7+23]
+	RtlUserThreadStart [0x00007FFA496FBF6C+44]
+
+2025-02-21 11:03:57,509 - WARNING - Element to click was not found.
+2025-02-21 11:03:57,509 - INFO - Getting text from element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 11:03:57,510 - INFO - Finding element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 11:03:57,517 - INFO - Element found: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 11:03:57,525 - INFO - Text retrieved: 'February 2025'
+2025-02-21 11:03:57,525 - INFO - Current calendar month: February 2025
+2025-02-21 11:03:57,525 - INFO - Moving to the next month in the calendar.
+2025-02-21 11:03:57,525 - INFO - Clicking element with locator: //*[@data-ui-name='calendar_body']/button[2]
+2025-02-21 11:03:57,525 - INFO - Finding element with locator: //*[@data-ui-name='calendar_body']/button[2]
+2025-02-21 11:04:07,581 - ERROR - Error finding element //*[@data-ui-name='calendar_body']/button[2]: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@data-ui-name='calendar_body']/button[2]"}
+  (Session info: chrome=133.0.6943.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF74F376EE5+28773]
+	(No symbol) [0x00007FF74F2E25D0]
+	(No symbol) [0x00007FF74F178FAA]
+	(No symbol) [0x00007FF74F1CF286]
+	(No symbol) [0x00007FF74F1CF4BC]
+	(No symbol) [0x00007FF74F222A27]
+	(No symbol) [0x00007FF74F1F728F]
+	(No symbol) [0x00007FF74F21F6F3]
+	(No symbol) [0x00007FF74F1F7023]
+	(No symbol) [0x00007FF74F1BFF5E]
+	(No symbol) [0x00007FF74F1C11E3]
+	GetHandleVerifier [0x00007FF74F6C422D+3490733]
+	GetHandleVerifier [0x00007FF74F6DBA13+3586963]
+	GetHandleVerifier [0x00007FF74F6D144D+3544525]
+	GetHandleVerifier [0x00007FF74F43C9AA+838442]
+	(No symbol) [0x00007FF74F2ED01F]
+	(No symbol) [0x00007FF74F2E95E4]
+	(No symbol) [0x00007FF74F2E9786]
+	(No symbol) [0x00007FF74F2D8CB9]
+	BaseThreadInitThunk [0x00007FFA4819E8D7+23]
+	RtlUserThreadStart [0x00007FFA496FBF6C+44]
+
+2025-02-21 11:04:07,581 - WARNING - Element to click was not found.
+2025-02-21 11:04:07,581 - INFO - Getting text from element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 11:04:07,581 - INFO - Finding element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 11:04:07,586 - INFO - Element found: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 11:04:07,591 - INFO - Text retrieved: 'February 2025'
+2025-02-21 11:04:07,591 - INFO - Current calendar month: February 2025
+2025-02-21 11:04:07,592 - INFO - Moving to the next month in the calendar.
+2025-02-21 11:04:07,592 - INFO - Clicking element with locator: //*[@data-ui-name='calendar_body']/button[2]
+2025-02-21 11:04:07,592 - INFO - Finding element with locator: //*[@data-ui-name='calendar_body']/button[2]
+2025-02-21 11:04:17,598 - ERROR - Error finding element //*[@data-ui-name='calendar_body']/button[2]: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@data-ui-name='calendar_body']/button[2]"}
+  (Session info: chrome=133.0.6943.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF74F376EE5+28773]
+	(No symbol) [0x00007FF74F2E25D0]
+	(No symbol) [0x00007FF74F178FAA]
+	(No symbol) [0x00007FF74F1CF286]
+	(No symbol) [0x00007FF74F1CF4BC]
+	(No symbol) [0x00007FF74F222A27]
+	(No symbol) [0x00007FF74F1F728F]
+	(No symbol) [0x00007FF74F21F6F3]
+	(No symbol) [0x00007FF74F1F7023]
+	(No symbol) [0x00007FF74F1BFF5E]
+	(No symbol) [0x00007FF74F1C11E3]
+	GetHandleVerifier [0x00007FF74F6C422D+3490733]
+	GetHandleVerifier [0x00007FF74F6DBA13+3586963]
+	GetHandleVerifier [0x00007FF74F6D144D+3544525]
+	GetHandleVerifier [0x00007FF74F43C9AA+838442]
+	(No symbol) [0x00007FF74F2ED01F]
+	(No symbol) [0x00007FF74F2E95E4]
+	(No symbol) [0x00007FF74F2E9786]
+	(No symbol) [0x00007FF74F2D8CB9]
+	BaseThreadInitThunk [0x00007FFA4819E8D7+23]
+	RtlUserThreadStart [0x00007FFA496FBF6C+44]
+
+2025-02-21 11:04:17,598 - WARNING - Element to click was not found.
+2025-02-21 11:04:17,598 - INFO - Getting text from element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 11:04:17,598 - INFO - Finding element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 11:04:17,603 - INFO - Element found: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 11:04:17,608 - INFO - Text retrieved: 'February 2025'
+2025-02-21 11:04:17,608 - INFO - Current calendar month: February 2025
+2025-02-21 11:04:17,608 - INFO - Moving to the next month in the calendar.
+2025-02-21 11:04:17,609 - INFO - Clicking element with locator: //*[@data-ui-name='calendar_body']/button[2]
+2025-02-21 11:04:17,609 - INFO - Finding element with locator: //*[@data-ui-name='calendar_body']/button[2]
+2025-02-21 11:04:27,634 - ERROR - Error finding element //*[@data-ui-name='calendar_body']/button[2]: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@data-ui-name='calendar_body']/button[2]"}
+  (Session info: chrome=133.0.6943.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF74F376EE5+28773]
+	(No symbol) [0x00007FF74F2E25D0]
+	(No symbol) [0x00007FF74F178FAA]
+	(No symbol) [0x00007FF74F1CF286]
+	(No symbol) [0x00007FF74F1CF4BC]
+	(No symbol) [0x00007FF74F222A27]
+	(No symbol) [0x00007FF74F1F728F]
+	(No symbol) [0x00007FF74F21F6F3]
+	(No symbol) [0x00007FF74F1F7023]
+	(No symbol) [0x00007FF74F1BFF5E]
+	(No symbol) [0x00007FF74F1C11E3]
+	GetHandleVerifier [0x00007FF74F6C422D+3490733]
+	GetHandleVerifier [0x00007FF74F6DBA13+3586963]
+	GetHandleVerifier [0x00007FF74F6D144D+3544525]
+	GetHandleVerifier [0x00007FF74F43C9AA+838442]
+	(No symbol) [0x00007FF74F2ED01F]
+	(No symbol) [0x00007FF74F2E95E4]
+	(No symbol) [0x00007FF74F2E9786]
+	(No symbol) [0x00007FF74F2D8CB9]
+	BaseThreadInitThunk [0x00007FFA4819E8D7+23]
+	RtlUserThreadStart [0x00007FFA496FBF6C+44]
+
+2025-02-21 11:04:27,634 - WARNING - Element to click was not found.
+2025-02-21 11:04:27,634 - INFO - Getting text from element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 11:04:27,634 - INFO - Finding element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 11:04:27,642 - INFO - Element found: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 11:04:27,647 - INFO - Text retrieved: 'February 2025'
+2025-02-21 11:04:27,647 - INFO - Current calendar month: February 2025
+2025-02-21 11:04:27,647 - INFO - Moving to the next month in the calendar.
+2025-02-21 11:04:27,647 - INFO - Clicking element with locator: //*[@data-ui-name='calendar_body']/button[2]
+2025-02-21 11:04:27,647 - INFO - Finding element with locator: //*[@data-ui-name='calendar_body']/button[2]
+2025-02-21 11:04:37,663 - ERROR - Error finding element //*[@data-ui-name='calendar_body']/button[2]: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@data-ui-name='calendar_body']/button[2]"}
+  (Session info: chrome=133.0.6943.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF74F376EE5+28773]
+	(No symbol) [0x00007FF74F2E25D0]
+	(No symbol) [0x00007FF74F178FAA]
+	(No symbol) [0x00007FF74F1CF286]
+	(No symbol) [0x00007FF74F1CF4BC]
+	(No symbol) [0x00007FF74F222A27]
+	(No symbol) [0x00007FF74F1F728F]
+	(No symbol) [0x00007FF74F21F6F3]
+	(No symbol) [0x00007FF74F1F7023]
+	(No symbol) [0x00007FF74F1BFF5E]
+	(No symbol) [0x00007FF74F1C11E3]
+	GetHandleVerifier [0x00007FF74F6C422D+3490733]
+	GetHandleVerifier [0x00007FF74F6DBA13+3586963]
+	GetHandleVerifier [0x00007FF74F6D144D+3544525]
+	GetHandleVerifier [0x00007FF74F43C9AA+838442]
+	(No symbol) [0x00007FF74F2ED01F]
+	(No symbol) [0x00007FF74F2E95E4]
+	(No symbol) [0x00007FF74F2E9786]
+	(No symbol) [0x00007FF74F2D8CB9]
+	BaseThreadInitThunk [0x00007FFA4819E8D7+23]
+	RtlUserThreadStart [0x00007FFA496FBF6C+44]
+
+2025-02-21 11:04:37,663 - WARNING - Element to click was not found.
+2025-02-21 11:04:37,663 - INFO - Getting text from element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 11:04:37,666 - INFO - Finding element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 11:04:37,669 - INFO - Element found: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 11:04:37,675 - INFO - Text retrieved: 'February 2025'
+2025-02-21 11:04:37,675 - INFO - Current calendar month: February 2025
+2025-02-21 11:04:37,675 - INFO - Moving to the next month in the calendar.
+2025-02-21 11:04:37,675 - INFO - Clicking element with locator: //*[@data-ui-name='calendar_body']/button[2]
+2025-02-21 11:04:37,675 - INFO - Finding element with locator: //*[@data-ui-name='calendar_body']/button[2]
+2025-02-21 11:04:47,709 - ERROR - Error finding element //*[@data-ui-name='calendar_body']/button[2]: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@data-ui-name='calendar_body']/button[2]"}
+  (Session info: chrome=133.0.6943.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF74F376EE5+28773]
+	(No symbol) [0x00007FF74F2E25D0]
+	(No symbol) [0x00007FF74F178FAA]
+	(No symbol) [0x00007FF74F1CF286]
+	(No symbol) [0x00007FF74F1CF4BC]
+	(No symbol) [0x00007FF74F222A27]
+	(No symbol) [0x00007FF74F1F728F]
+	(No symbol) [0x00007FF74F21F6F3]
+	(No symbol) [0x00007FF74F1F7023]
+	(No symbol) [0x00007FF74F1BFF5E]
+	(No symbol) [0x00007FF74F1C11E3]
+	GetHandleVerifier [0x00007FF74F6C422D+3490733]
+	GetHandleVerifier [0x00007FF74F6DBA13+3586963]
+	GetHandleVerifier [0x00007FF74F6D144D+3544525]
+	GetHandleVerifier [0x00007FF74F43C9AA+838442]
+	(No symbol) [0x00007FF74F2ED01F]
+	(No symbol) [0x00007FF74F2E95E4]
+	(No symbol) [0x00007FF74F2E9786]
+	(No symbol) [0x00007FF74F2D8CB9]
+	BaseThreadInitThunk [0x00007FFA4819E8D7+23]
+	RtlUserThreadStart [0x00007FFA496FBF6C+44]
+
+2025-02-21 11:04:47,709 - WARNING - Element to click was not found.
+2025-02-21 11:04:47,709 - INFO - Getting text from element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 11:04:47,709 - INFO - Finding element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 11:04:47,716 - INFO - Element found: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 11:04:47,721 - INFO - Text retrieved: 'February 2025'
+2025-02-21 11:04:47,721 - INFO - Current calendar month: February 2025
+2025-02-21 11:04:47,721 - INFO - Moving to the next month in the calendar.
+2025-02-21 11:04:47,721 - INFO - Clicking element with locator: //*[@data-ui-name='calendar_body']/button[2]
+2025-02-21 11:04:47,721 - INFO - Finding element with locator: //*[@data-ui-name='calendar_body']/button[2]
+2025-02-21 11:04:57,747 - ERROR - Error finding element //*[@data-ui-name='calendar_body']/button[2]: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@data-ui-name='calendar_body']/button[2]"}
+  (Session info: chrome=133.0.6943.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF74F376EE5+28773]
+	(No symbol) [0x00007FF74F2E25D0]
+	(No symbol) [0x00007FF74F178FAA]
+	(No symbol) [0x00007FF74F1CF286]
+	(No symbol) [0x00007FF74F1CF4BC]
+	(No symbol) [0x00007FF74F222A27]
+	(No symbol) [0x00007FF74F1F728F]
+	(No symbol) [0x00007FF74F21F6F3]
+	(No symbol) [0x00007FF74F1F7023]
+	(No symbol) [0x00007FF74F1BFF5E]
+	(No symbol) [0x00007FF74F1C11E3]
+	GetHandleVerifier [0x00007FF74F6C422D+3490733]
+	GetHandleVerifier [0x00007FF74F6DBA13+3586963]
+	GetHandleVerifier [0x00007FF74F6D144D+3544525]
+	GetHandleVerifier [0x00007FF74F43C9AA+838442]
+	(No symbol) [0x00007FF74F2ED01F]
+	(No symbol) [0x00007FF74F2E95E4]
+	(No symbol) [0x00007FF74F2E9786]
+	(No symbol) [0x00007FF74F2D8CB9]
+	BaseThreadInitThunk [0x00007FFA4819E8D7+23]
+	RtlUserThreadStart [0x00007FFA496FBF6C+44]
+
+2025-02-21 11:04:57,747 - WARNING - Element to click was not found.
+2025-02-21 11:04:57,748 - INFO - Getting text from element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 11:04:57,748 - INFO - Finding element with locator: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 11:04:57,753 - INFO - Element found: //*[@class='Calendar-module__monthWrapper___FNL-g']/h3
+2025-02-21 11:04:57,759 - INFO - Text retrieved: 'February 2025'
+2025-02-21 11:04:57,759 - INFO - Current calendar month: February 2025
+2025-02-21 11:04:57,759 - INFO - Moving to the next month in the calendar.
+2025-02-21 11:04:57,759 - INFO - Clicking element with locator: //*[@data-ui-name='calendar_body']/button[2]
+2025-02-21 11:04:57,759 - INFO - Finding element with locator: //*[@data-ui-name='calendar_body']/button[2]
