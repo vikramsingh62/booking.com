@@ -11,7 +11,7 @@ def driver(request):
     if request.config.getoption("--headless"):
         options.add_argument("--headless")  # Enable headless mode if the flag is used
     options.add_argument("--start-maximized")  # Start browser maximized
-    driver = webdriver.Chrome(options=options, executable_path="../chromedriver.exe")
+    driver = webdriver.Chrome(options=options)
     driver.implicitly_wait(10)
     yield driver
     driver.quit()
