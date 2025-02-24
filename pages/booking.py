@@ -35,6 +35,8 @@ class BookingPage(BasePage):
 
     def verify_redirection_to_flights_page(self):
         try:
+            if self.is_element_displayed(locators.popup):
+                self.click(locators.popup_close)
             logging.info("Clicking the Flights tab.")
             self.click(locators.tab_flights)
             title = self.driver.title
@@ -54,6 +56,8 @@ class BookingPage(BasePage):
 
     def verify_removing_already_filled_field(self):
         try:
+            if self.is_element_displayed(locators.popup):
+                self.click(locators.popup_close)
             logging.info("Verifying removing already filled field in flights search.")
             self.verify_redirection_to_flights_page()
             logging.info("Clicking the origin button.")
@@ -75,6 +79,8 @@ class BookingPage(BasePage):
 
     def verify_input_in_origin_field(self, code):
         try:
+            if self.is_element_displayed(locators.popup):
+                self.click(locators.popup_close)
             logging.info(f"Verifying input '{code}' in the origin field.")
             self.verify_removing_already_filled_field()
             logging.info(f"Entering text '{code}' into the origin field.")
@@ -109,6 +115,8 @@ class BookingPage(BasePage):
 
     def verify_input_in_destination_field(self, code):
         try:
+            if self.is_element_displayed(locators.popup):
+                self.click(locators.popup_close)
             logging.info(f"Verifying input '{code}' in the destination field.")
             self.verify_input_in_origin_field('DEL')
             logging.info("Clicking the destination button.")
@@ -146,6 +154,8 @@ class BookingPage(BasePage):
 
     def verify_the_dates_functionality(self, from_date, from_month, to_date, to_month,dest="BOM"):
         try:
+            if self.is_element_displayed(locators.popup):
+                self.click(locators.popup_close)
             logging.info(f"Verifying dates functionality: from {from_date} {from_month}, to {to_date} {to_month}")
             self.verify_input_in_destination_field(dest)
             logging.info("Clicking the select dates button.")
@@ -184,6 +194,8 @@ class BookingPage(BasePage):
 
     def verify_search_button_functionality(self,dest='BOM'):
         try:
+            if self.is_element_displayed(locators.popup):
+                self.click(locators.popup_close)
             logging.info("Verifying search button functionality.")
             self.verify_the_dates_functionality("12", "April", "18", "May",dest)
             logging.info("Clicking the search button.")
@@ -205,6 +217,8 @@ class BookingPage(BasePage):
 
     def verify_the_presence_of_alr_dates(self):
         try:
+            if self.is_element_displayed(locators.popup):
+                self.click(locators.popup_close)
             logging.info("Verifying the presence of alternate dates.")
             self.verify_search_button_functionality()
 
@@ -220,6 +234,8 @@ class BookingPage(BasePage):
             return False
 
     def verify_for_empty_dest_field(self):
+        if self.is_element_displayed(locators.popup):
+            self.click(locators.popup_close)
         self.verify_redirection_to_flights_page()
         self.click(locators.btn_search)
         if self.is_element_displayed(locators.error_destination_field):
@@ -228,6 +244,8 @@ class BookingPage(BasePage):
             return False
 
     def verify_if_no_flights_are_avaialble(self):
+        if self.is_element_displayed(locators.popup):
+            self.click(locators.popup_close)
         self.verify_search_button_functionality("OMJ")
         if self.is_element_displayed(locators.empty_flights):
             return True

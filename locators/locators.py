@@ -16,3 +16,5 @@ flight_details = "//*[@aria-label='Flight option']"
 alterate_dates = "//*[@aria-label='Alternative dates with prices']//div/div[1]"
 error_destination_field = "//*[@class='ErrorMessage-module__content___nDCzG']"
 empty_flights = '//*[text() = "We can’t find any flights that match your search"]'
+popup = '//*[@class="f0c216ee26 c676dd76fe b5018b639f" and @role="dialog"]'
+popup_close = '//*[@aria-label="Dismiss sign-in info."]'
